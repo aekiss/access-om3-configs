@@ -1,4 +1,4 @@
-"volcello"  [Unused]
+"volcello"  [Used]
     ! modules: {ocean_model,ocean_model_z,ocean_model_rho2,ocean_model_d2,ocean_model_z_d2,ocean_model_rho2_d2}
     ! long_name: Ocean grid-cell volume
     ! units: m3
@@ -2671,7 +2671,7 @@
     ! long_name: Vertically Integrated Advective Zonal Flux of Heat
     ! units: W
     ! cell_methods: xq:point yh:sum
-"T_ady_2d"  [Unused]
+"T_ady_2d"  [Used]
     ! modules: {ocean_model,ocean_model_d2}
     ! long_name: Vertically Integrated Advective Meridional Flux of Heat
     ! units: W
@@ -2681,7 +2681,7 @@
     ! long_name: Vertically Integrated Diffusive Zonal Flux of Heat
     ! units: W
     ! cell_methods: xq:point yh:sum
-"T_diffy_2d"  [Unused]
+"T_diffy_2d"  [Used]
     ! modules: {ocean_model,ocean_model_d2}
     ! long_name: Vertically Integrated Diffusive Meridional Flux of Heat
     ! units: W
@@ -2691,7 +2691,7 @@
     ! long_name: Vertically-integrated zonal diffusive flux from the horizontal boundary diffusion scheme for Heat
     ! units: W
     ! cell_methods: xq:point yh:sum
-"T_hbd_diffy_2d"  [Unused]
+"T_hbd_diffy_2d"  [Used]
     ! modules: {ocean_model,ocean_model_d2}
     ! long_name: Vertically-integrated meridional diffusive flux from the horizontal boundary diffusion scheme for Heat
     ! units: W
@@ -3245,14 +3245,14 @@
     ! long_name: Virtual liquid precip into ocean due to SSS restoring
     ! units: kg m-2 s-1
     ! cell_methods: xh:mean yh:mean area:mean
-"frunoff"  [Unused] (CMOR equivalent is "ficeberg")
+"frunoff"  [Used] (CMOR equivalent is "ficeberg")
     ! modules: {ocean_model,ocean_model_d2}
     ! long_name: Frozen runoff (calving) and iceberg melt into ocean
     ! units: kg m-2 s-1
     ! standard_name: water_flux_into_sea_water_from_icebergs
     ! cell_methods: xh:mean yh:mean area:mean
     ! variants: {frunoff,ficeberg}
-"lrunoff"  [Unused] (CMOR equivalent is "friver")
+"lrunoff"  [Used] (CMOR equivalent is "friver")
     ! modules: {ocean_model,ocean_model_d2}
     ! long_name: Liquid runoff (rivers) into ocean
     ! units: kg m-2 s-1
