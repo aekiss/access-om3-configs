@@ -191,6 +191,7 @@ diag_table:
             vmo: # Ocean Mass Y Transport
             uhGM: # Time Mean Diffusive Zonal Thickness Flux
             vhGM: # Time Mean Diffusive Meridional Thickness Flux
+            GM_sfn_y: # Parameterized Meridional Overturning Streamfunction
 
     'monthly 2d fields':
         defaults:  # these can be overridden for individual fields below
