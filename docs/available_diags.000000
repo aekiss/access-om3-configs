@@ -2007,13 +2007,13 @@
     ! units: PSU
     ! cell_methods: xh:mean yh:mean zl:mean area:mean
     ! variants: {salt_predia,salt_predia_xyave}
-"Kd_interface"  [Unused]
+"Kd_interface"  [Used]
     ! modules: {ocean_model,ocean_model_z,ocean_model_rho2,ocean_model_d2,ocean_model_z_d2,ocean_model_rho2_d2}
     ! long_name: Total diapycnal diffusivity at interfaces
     ! units: m2 s-1
     ! cell_methods: xh:mean yh:mean zi:point area:mean
     ! variants: {Kd_interface,Kd_interface_xyave}
-"Kd_ePBL"  [Unused]
+"Kd_ePBL"  [Used]
     ! modules: {ocean_model,ocean_model_z,ocean_model_rho2,ocean_model_d2,ocean_model_z_d2,ocean_model_rho2_d2}
     ! long_name: ePBL diapycnal diffusivity at interfaces
     ! units: m2 s-1
@@ -2666,7 +2666,7 @@
     ! units: W
     ! cell_methods: xh:sum yq:point zl:sum
     ! variants: {T_hbd_diffy,T_hbd_diffy_xyave}
-"T_adx_2d"  [Unused]
+"T_adx_2d"  [Used]
     ! modules: {ocean_model,ocean_model_d2}
     ! long_name: Vertically Integrated Advective Zonal Flux of Heat
     ! units: W
