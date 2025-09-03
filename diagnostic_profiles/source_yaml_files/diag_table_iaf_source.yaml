@@ -217,8 +217,11 @@ diag_table:
             T_diffy_2d: # Vertically Integrated Diffusive Meridional Flux of Heat
             T_hbd_diffy_2d: # Vertically-integrated meridional diffusive flux from the horizontal boundary diffusion scheme for Heat
             T_ady_2d: # Vertically Integrated Advective Meridional Flux of Heat
+            T_adx_2d: # Vertically Integrated Advective Zonal Flux of Heat
             lrunoff: # Liquid runoff (rivers) into ocean
             ficeberg: # Frozen runoff (calving) and iceberg melt into ocean
+            Kd_interface: # Total diapycnal diffusivity at interfaces
+            Kd_ePBL: # ePBL diapycnal diffusivity at interfaces
 
     'monthly 2d max fields':
         defaults:  # these can be overridden for individual fields below
