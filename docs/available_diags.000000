@@ -428,7 +428,7 @@
     ! units: m3 s-1
     ! cell_methods: xq:point yh:mean zi:point
     ! variants: {GM_sfn_x,GM_sfn_x_xyave}
-"GM_sfn_y"  [Used]
+"GM_sfn_y"  [Unused]
     ! modules: {ocean_model,ocean_model_z,ocean_model_rho2,ocean_model_d2,ocean_model_z_d2,ocean_model_rho2_d2}
     ! long_name: Parameterized Meridional Overturning Streamfunction
     ! units: m3 s-1
