@@ -2197,7 +2197,7 @@
     ! long_name: Buoyancy frequency squared averaged over the water column
     ! units: s-2
     ! cell_methods: xh:mean yh:mean area:mean
-"Kd_Itidal_Work"  [Unused]
+"Kd_Itidal_Work"  [Used]
     ! modules: {ocean_model,ocean_model_z,ocean_model_rho2,ocean_model_d2,ocean_model_z_d2,ocean_model_rho2_d2}
     ! long_name: Work done by Internal Tide Diapycnal Mixing
     ! units: W m-2
