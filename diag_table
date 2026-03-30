@@ -293,6 +293,12 @@ ACCESS-OM3
 "ocean_model", "massin_flux", "massin_flux", "access-om3.mom6.2d.massin_flux.1day.mean.%4yr", "all", "average", "none", 2
 
 
+# every timestep
+
+"access-om3.mom6.2d.speed.1step.mean.%4yr", 0, "days", 1, "days", "time", 1, "years"
+"ocean_model", "speed", "speed", "access-om3.mom6.2d.speed.1step.mean.%4yr", "all", "average", "none", 2
+
+
 # daily scalar timeseries
 
 "access-om3.mom6.scalar.1day.snap.%4yr", 1, "days", 1, "days", "time", 1, "years"
