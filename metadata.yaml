@@ -1,6 +1,6 @@
 contact: Andrew Kiss
 email: 31054815+aekiss@users.noreply.github.com
-created: '2026-03-18'
+created: '2026-04-07'
 description: |-
   25km ACCESS-OM3 global configuration under interannual forcing.
   Initial conditions of temperature and salinity are from WOA23.
@@ -30,8 +30,8 @@ license: CC-BY-4.0
 model: ACCESS-OM3
 url: https://github.com/ACCESS-NRI/access-om3-configs
 version: 0.0
-experiment_uuid: 07f45749-ed38-4759-9bae-c704ab8aec93
-name: MC_25km_jra_iaf+wombatlite-test3-07f45749
+experiment_uuid: 00532b88-04be-422c-a0b8-cf4b9df4af58
+name: MC_25km_jra_iaf+wombatlite-test3v2-00532b88
 schema_version:  # The version of the schema (string)
 long_description: # Long description of the experiment (string)
 frequency: # The frequency(/ies) included in the experiment (string)
