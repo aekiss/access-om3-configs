@@ -9,10 +9,11 @@ shortpath: /scratch/tm70
 # Using payu sync is recommend to copy data from ephemeral scratch space to 
 # longer term storage
 sync:
-    enable: False # set path below and change to true
-    path: null # Set to location on /g/data (e.g. /g/data/PROJECT/USER/EXPERIMENT)
+    enable: True
+    path: /g/data/ol01/outputs/access-om3-25km/MC_25km_jra_iaf+wombatlite-test3v2-00532b88
     restarts: True
     exclude_uncollated: False
+    remove_local_files: False
 
 #Model software version
 modules:
