@@ -247,7 +247,7 @@ MED_attributes::
      ocn2wav_smapname = unset
      ocn_nx = 1440
      ocn_ny = 1152
-     ocn_surface_flux_scheme = 0
+     ocn_surface_flux_scheme = 1
      rof2lnd_map = unset
      rof2ocn_fmapname = unset
      rof2ocn_ice_rmapname = ./INPUT/access-om3-25km-rof-remap-weights.nc

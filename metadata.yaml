@@ -2,9 +2,13 @@ contact: Andrew Kiss
 email: 31054815+aekiss@users.noreply.github.com
 created: '2026-04-22'
 description: |-
+  Perturbation from MC_25km_jra_iaf+wombatlite-test3v2-00532b88,
+  using COARE bulk formula (ocn_surface_flux_scheme=1 in nuopc.runconfig)
+  see https://github.com/ACCESS-NRI/access-om3-configs/issues/1279
   25km ACCESS-OM3 global configuration under interannual forcing.
-  Initial conditions of temperature and salinity are from WOA23.
-  Run with JRA55-do v1.6.0 interannually-varying forcing, 1 Jan 1958 - 31 Dec 2023.
+  Initial conditions of temperature and salinity are from 1 Jan 1990
+  from MC_25km_jra_iaf+wombatlite-test3v2-00532b88.
+  Run with JRA55-do v1.6.0 interannually-varying forcing to 31 Dec 2023.
   This configuration includes WOMBATlite biogeochemistry with time-varying, globally-
   averaged atmospheric CO2 forcing. Initial WOMBATlite prognostic tracer
   concentrations are:
