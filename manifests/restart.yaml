@@ -1,6 +1,11 @@
 format: yamanifest
 version: 1.0
 ---
+work/CORRUPT-ocean_wombatlite_airsea_flux.res.nc:
+  fullpath: /scratch/tm70/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test3v2-00532b88/restart031/CORRUPT-ocean_wombatlite_airsea_flux.res.nc
+  hashes:
+    binhash: 06110eb5d88a94811c344ee25bd4bab6
+    md5: dfb3616febd977c6320504153a58885f
 work/access-om3.cice.r.1990-01-01-00000.nc:
   fullpath: /scratch/tm70/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test3v2-00532b88/restart031/access-om3.cice.r.1990-01-01-00000.nc
   hashes:
@@ -66,11 +71,6 @@ work/access-om3.mom6.r.1990-01-01-00000_8.nc:
   hashes:
     binhash: 5db87bdb9e3373fed2ffc5170735fd3e
     md5: 0dec6b2acbb27ff817e3f5c44b4eb00d
-work/ocean_wombatlite_airsea_flux.res.nc:
-  fullpath: /scratch/tm70/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test3v2-00532b88/restart031/ocean_wombatlite_airsea_flux.res.nc
-  hashes:
-    binhash: d521ba893c9c6743eed3425897b522a3
-    md5: dfb3616febd977c6320504153a58885f
 work/ocean_wombatlite_airsea_flux.res.nc.0000:
   fullpath: /scratch/tm70/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test3v2-00532b88/restart031/ocean_wombatlite_airsea_flux.res.nc.0000
   hashes:
