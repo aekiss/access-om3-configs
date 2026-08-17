@@ -130,6 +130,12 @@ ACCESS-OM3
 "access-om3.mom6.3d.thkcello.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
 "ocean_model", "thkcello", "thkcello", "access-om3.mom6.3d.thkcello.1mon.mean.%4yr", "all", "average", "none", 2
 
+"access-om3.mom6.3d.difvho.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
+"ocean_model", "difvho", "difvho", "access-om3.mom6.3d.difvho.1mon.mean.%4yr", "all", "average", "none", 2
+
+"access-om3.mom6.3d.difvso.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
+"ocean_model", "difvso", "difvso", "access-om3.mom6.3d.difvso.1mon.mean.%4yr", "all", "average", "none", 2
+
 "access-om3.mom6.3d.Kd_interface.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
 "ocean_model", "Kd_interface", "Kd_interface", "access-om3.mom6.3d.Kd_interface.1mon.mean.%4yr", "all", "average", "none", 2
 

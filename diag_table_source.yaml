@@ -215,6 +215,8 @@ diag_table:
         fields:
             e: # Interface height relative to mean sea level
             thkcello: # Cell Thickness
+            difvho: # Kd_heat: Total diapycnal diffusivity for heat at interfaces
+            difvso: # Kd_salt: Total diapycnal diffusivity for salt at interfaces
             Kd_interface: # Total diapycnal diffusivity at interfaces
             Kd_ePBL: # ePBL diapycnal diffusivity at interfaces
             Kd_shear: # Shear-driven Diapycnal Diffusivity at horizontal tracer points
