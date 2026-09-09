@@ -186,7 +186,7 @@
     ! long_name: MEKE derived lateral viscosity
     ! units: m2 s-1
     ! cell_methods: xh:mean yh:mean area:mean
-"MEKE_AU"  [Used]
+"MEKE_AU"  [Unused]
     ! modules: {ocean_model,ocean_model_d2}
     ! dimensions: xh, yh
     ! long_name: MEKE derived lateral biharmonic viscosity
@@ -850,7 +850,7 @@
     ! long_name: Depth integrated work done by the biharmonic lateral friction
     ! units: W m-2
     ! cell_methods: xh:mean yh:mean area:mean
-"Kv_slow"  [Used]
+"Kv_slow"  [Unused]
     ! modules: {ocean_model,ocean_model_z,ocean_model_rho2,ocean_model_d2,ocean_model_z_d2,ocean_model_rho2_d2}
     ! dimensions: xh, yh, zi
     ! long_name: Slow varying vertical viscosity
@@ -871,14 +871,14 @@
     ! units: m2 s-1
     ! cell_methods: xh:mean yq:point zl:mean
     ! variants: {Kv_v,Kv_v_xyave}
-"Kv_gl90_u"  [Used]
+"Kv_gl90_u"  [Unused]
     ! modules: {ocean_model,ocean_model_z,ocean_model_rho2,ocean_model_d2,ocean_model_z_d2,ocean_model_rho2_d2}
     ! dimensions: xq, yh, zl
     ! long_name: GL90 vertical viscosity at u-points
     ! units: m2 s-1
     ! cell_methods: xq:point yh:mean zl:mean
     ! variants: {Kv_gl90_u,Kv_gl90_u_xyave}
-"Kv_gl90_v"  [Used]
+"Kv_gl90_v"  [Unused]
     ! modules: {ocean_model,ocean_model_z,ocean_model_rho2,ocean_model_d2,ocean_model_z_d2,ocean_model_rho2_d2}
     ! dimensions: xh, yq, zl
     ! long_name: GL90 vertical viscosity at v-points
@@ -3144,7 +3144,7 @@
     ! units: m2/s
     ! cell_methods: xh:mean yh:mean zi:point area:mean
     ! variants: {Kd_bkgnd,Kd_bkgnd_xyave}
-"Kv_bkgnd"  [Used]
+"Kv_bkgnd"  [Unused]
     ! modules: {ocean_model,ocean_model_z,ocean_model_rho2,ocean_model_d2,ocean_model_z_d2,ocean_model_rho2_d2}
     ! dimensions: xh, yh, zi
     ! long_name: Background viscosity added by MOM_bkgnd_mixing module
