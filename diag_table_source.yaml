@@ -190,8 +190,6 @@ diag_table:
             Khh: # Laplacian Horizontal Viscosity at h Points
             Kv_u: # Total vertical viscosity at u-points
             Kv_v: # Total vertical viscosity at v-points
-            Kv_gl90_u: # GL90 vertical viscosity at u-points
-            Kv_gl90_v: # GL90 vertical viscosity at v-points
 
     'monthly 3d fields on rho2':
         defaults:  # these can be overridden for individual fields below
@@ -223,8 +221,6 @@ diag_table:
             Kd_itides: # Internal Tide Driven Diffusivity
             Kd_bkgnd: # Background diffusivity added by MOM_bkgnd_mixing module
             Kd_BBL: # Bottom Boundary Layer Diffusivity
-            Kv_slow: # Slow varying vertical viscosity
-            Kv_bkgnd: # Background viscosity added by MOM_bkgnd_mixing module
             diftrblo: # Ocean Tracer Diffusivity due to Parameterized Mesoscale Advection
             diftrelo: # Epipycnal tracer diffusivity at tracer cell center
 
@@ -263,7 +259,6 @@ diag_table:
             ePBL_h_ML: # Surface boundary layer depth
             h_ML: # Surface mixed layer depth based on active turbulence
             MEKE_KU: # MEKE derived lateral viscosity
-            MEKE_AU: # MEKE derived lateral biharmonic viscosity
             kv_bbl_u: # BBL viscosity at u points
             kv_bbl_v: # BBL viscosity at v points
             taux_bot: # Zonal Bottom Stress from Ocean to Earth
