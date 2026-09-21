@@ -1,353 +1,2393 @@
 format: yamanifest
 version: 1.0
 ---
-work/access-om3.cice.r.1968-01-01-00000.nc:
-  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test5-38867fcd/restart009/access-om3.cice.r.1968-01-01-00000.nc
+work/access-om3.cice.r.1969-01-01-00000.nc:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.cice.r.1969-01-01-00000.nc
   hashes:
-    binhash: 5e3096a4b67e2e1655c45bdfc5376b03
-    md5: 762c757b9eadebb431aded6f99d67297
-work/access-om3.cpl.r.1968-01-01-00000.nc:
-  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test5-38867fcd/restart009/access-om3.cpl.r.1968-01-01-00000.nc
+    binhash: 1071aa94420050bf46f521680de5ae51
+    md5: 7dfa29c723492ed0d494b1686c78e14d
+work/access-om3.cpl.r.1969-01-01-00000.nc:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.cpl.r.1969-01-01-00000.nc
   hashes:
-    binhash: c470b0ececb01d254b082d9a6930a2da
-    md5: 843a7f07e7112ed8c34fea071ba12c51
-work/access-om3.datm.r.1968-01-01-00000.nc:
-  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test5-38867fcd/restart009/access-om3.datm.r.1968-01-01-00000.nc
+    binhash: e0fab094157fd2567150dc007123c0f5
+    md5: af60e6cb49c77daa48043109920b2dca
+work/access-om3.datm.r.1969-01-01-00000.nc:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.datm.r.1969-01-01-00000.nc
   hashes:
-    binhash: 683c33ed6924702a327e5779151fa1fe
-    md5: b6081ffea4f3fa0f28237872f155bdd3
-work/access-om3.drof.r.1968-01-01-00000.nc:
-  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test5-38867fcd/restart009/access-om3.drof.r.1968-01-01-00000.nc
+    binhash: 566ee7d91b706fd9eec58233c0fc3772
+    md5: ab4ab755db40f4d1a2e8f5def87a978f
+work/access-om3.drof.r.1969-01-01-00000.nc:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.drof.r.1969-01-01-00000.nc
   hashes:
-    binhash: d9b2da0b92ab85b527dff20fed2b98e4
-    md5: 3a5d97baaf3017486264fc02433205b3
-work/access-om3.mom6.r.1968-01-01-00000.nc:
-  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test5-38867fcd/restart009/access-om3.mom6.r.1968-01-01-00000.nc
+    binhash: a1487f0f4b94cc9f1b89981c4cc755c5
+    md5: 0df9d608db15b309051817ccfc322fbf
+work/access-om3.mom6.r.1969-01-01-00000.nc.0000:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000.nc.0000
   hashes:
-    binhash: db17b96886ccb5fdf23c88c01f30fecb
-    md5: 10379d89ae29d31d7843c2cabdb08149
-work/access-om3.mom6.r.1968-01-01-00000_1.nc:
-  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test5-38867fcd/restart009/access-om3.mom6.r.1968-01-01-00000_1.nc
+    binhash: 1ce2fbe3071cfbd0cbfebdbbeb6aed90
+    md5: 3d7e3eca2fb75f6413e99fa3a529d7b7
+work/access-om3.mom6.r.1969-01-01-00000.nc.0001:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000.nc.0001
   hashes:
-    binhash: 0bc8bf2613b5d4e4f43ec5b7d3daa863
-    md5: a95906354d6f5f86c5e5b1a0ff3ee3f9
-work/access-om3.mom6.r.1968-01-01-00000_2.nc:
-  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test5-38867fcd/restart009/access-om3.mom6.r.1968-01-01-00000_2.nc
+    binhash: 8ba18425e8d90cf8adbd953b10ba3fd1
+    md5: 2bc77c114464ce30ccc94da5aad2eac3
+work/access-om3.mom6.r.1969-01-01-00000.nc.0002:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000.nc.0002
   hashes:
-    binhash: 6e062b52d71fd8de297fb6d8c224dc6e
-    md5: 00d73b010314cf578928c005838c43b8
-work/access-om3.mom6.r.1968-01-01-00000_3.nc:
-  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test5-38867fcd/restart009/access-om3.mom6.r.1968-01-01-00000_3.nc
+    binhash: 6618d5b6065525975c049fbe4fa0bfc1
+    md5: 5af16e8097b22420bb37ed78875876b9
+work/access-om3.mom6.r.1969-01-01-00000.nc.0003:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000.nc.0003
   hashes:
-    binhash: 2b38bf5b37fad79de49daee80cb0a205
-    md5: 450069a4f605510938457c95dacab665
-work/access-om3.mom6.r.1968-01-01-00000_4.nc:
-  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test5-38867fcd/restart009/access-om3.mom6.r.1968-01-01-00000_4.nc
+    binhash: 8a93dbc3f4433d49943b17ac5513a557
+    md5: 435ff7f9974e7c2e844122da03923903
+work/access-om3.mom6.r.1969-01-01-00000.nc.0004:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000.nc.0004
   hashes:
-    binhash: f74688c61ddbaf7c9bf8a513e7d33c4a
-    md5: a7bd7a5c7e888a6622bca4549c56baad
-work/access-om3.mom6.r.1968-01-01-00000_5.nc:
-  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test5-38867fcd/restart009/access-om3.mom6.r.1968-01-01-00000_5.nc
+    binhash: f4d3e2e25bbd923eab2eca68b2b4be55
+    md5: 314d9d2c14b2c131b142cbb759ec6b97
+work/access-om3.mom6.r.1969-01-01-00000.nc.0005:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000.nc.0005
   hashes:
-    binhash: 98e82b43cbf1773e18c5b8ef9b87d669
-    md5: 27ad123294df72fb6a428a82d77a829d
-work/access-om3.mom6.r.1968-01-01-00000_6.nc:
-  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test5-38867fcd/restart009/access-om3.mom6.r.1968-01-01-00000_6.nc
+    binhash: bf0bed963d737eea891cbc2a487e37cf
+    md5: 479594b6db9ba12fe841b777f9207f53
+work/access-om3.mom6.r.1969-01-01-00000.nc.0006:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000.nc.0006
   hashes:
-    binhash: df807d4b6d536570575e9cf230212c2b
-    md5: fa9003a78d97c57795bc2bf9166112c8
-work/access-om3.mom6.r.1968-01-01-00000_7.nc:
-  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test5-38867fcd/restart009/access-om3.mom6.r.1968-01-01-00000_7.nc
+    binhash: 068f0fe2a199fce6fda352d0c7732896
+    md5: aca69274d8e5c79dac13abe1828a6424
+work/access-om3.mom6.r.1969-01-01-00000.nc.0007:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000.nc.0007
   hashes:
-    binhash: 11e3808363a5419ecadf6946db764506
-    md5: 36eaebb4ceff69997c3024512894e006
+    binhash: 834bb1883c4ff254552097ab4d592b4d
+    md5: d05637bbd037654a14c2470c7de28c2b
+work/access-om3.mom6.r.1969-01-01-00000.nc.0008:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000.nc.0008
+  hashes:
+    binhash: 23a62186c2cbac79296a41d3a2f03f75
+    md5: 281ffcdfa84b1338e420f4c8fda41cce
+work/access-om3.mom6.r.1969-01-01-00000.nc.0009:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000.nc.0009
+  hashes:
+    binhash: 7575e467768d9e9fac278f243000e700
+    md5: 87ed78b08ea0b791a0217b8cd8708693
+work/access-om3.mom6.r.1969-01-01-00000.nc.0010:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000.nc.0010
+  hashes:
+    binhash: bc5c66ecd6840ed5ca0defdbc7e6204e
+    md5: a4285c38e756179fcee535208bbde659
+work/access-om3.mom6.r.1969-01-01-00000.nc.0011:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000.nc.0011
+  hashes:
+    binhash: e0f815c7903f641937017094e6cdbabb
+    md5: 0f6501ebff2363d4271c9b24dcdb6cfb
+work/access-om3.mom6.r.1969-01-01-00000.nc.0012:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000.nc.0012
+  hashes:
+    binhash: eeefd0088bc485a5795da9182e5924df
+    md5: b35393d0b9a62d6c8d3c9d0a8c13115e
+work/access-om3.mom6.r.1969-01-01-00000.nc.0013:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000.nc.0013
+  hashes:
+    binhash: 2d8e539717b6f6370c65b1d7e5fc18bd
+    md5: 6d96036627b568790a02e0f575f72745
+work/access-om3.mom6.r.1969-01-01-00000.nc.0014:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000.nc.0014
+  hashes:
+    binhash: 38e5c53a8040189cc11cd734e3558be3
+    md5: 3138b6107e2c6568029cb75cab275bc5
+work/access-om3.mom6.r.1969-01-01-00000.nc.0015:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000.nc.0015
+  hashes:
+    binhash: 91b15ca615e357bb9006bb591c4d5299
+    md5: 78cc705886fb1e485dc0dd801d78db15
+work/access-om3.mom6.r.1969-01-01-00000.nc.0016:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000.nc.0016
+  hashes:
+    binhash: b5a45776eee534c805b5396b271761a5
+    md5: bf7224b1b3ff1088fb2786fa83428fd9
+work/access-om3.mom6.r.1969-01-01-00000.nc.0017:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000.nc.0017
+  hashes:
+    binhash: ad5923c35945b6d10a5781af0a080290
+    md5: 954a6d7088e63dd682981c56ec073032
+work/access-om3.mom6.r.1969-01-01-00000.nc.0018:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000.nc.0018
+  hashes:
+    binhash: 4ff4bbba5b09d2d636732389ee647153
+    md5: fd277ee6c68d04ff8917bb67ebd9a641
+work/access-om3.mom6.r.1969-01-01-00000.nc.0019:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000.nc.0019
+  hashes:
+    binhash: 23420ffee4132aac528874d238d58de8
+    md5: 067e67bb2dd446032358b7ba30c42df4
+work/access-om3.mom6.r.1969-01-01-00000.nc.0020:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000.nc.0020
+  hashes:
+    binhash: caff51c25aa7e505784d25f852158355
+    md5: b62afa32649bbb37e662c5beba3d93dc
+work/access-om3.mom6.r.1969-01-01-00000.nc.0021:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000.nc.0021
+  hashes:
+    binhash: 9e186c45aa5a97b9578a06babe7a94fa
+    md5: be036dda919efb4582947b41e33410bc
+work/access-om3.mom6.r.1969-01-01-00000.nc.0022:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000.nc.0022
+  hashes:
+    binhash: 676e7ba35bd1ccdcdee9ef74be417bc5
+    md5: f8c6ae970c148012191fefca44f89986
+work/access-om3.mom6.r.1969-01-01-00000.nc.0023:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000.nc.0023
+  hashes:
+    binhash: 782024ef9dfabb93f065a67ac6b97f44
+    md5: f9908757ff1020d24ddb491ea59456df
+work/access-om3.mom6.r.1969-01-01-00000.nc.0024:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000.nc.0024
+  hashes:
+    binhash: 22cb27c2ba2e0f0ea3a341096c40c7dd
+    md5: 436e2500ee0a2711d634105a001f11ea
+work/access-om3.mom6.r.1969-01-01-00000.nc.0025:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000.nc.0025
+  hashes:
+    binhash: 96144e39155bdd77cb1e83eabe974d6f
+    md5: 88970da54a8434199140a8c16701afa8
+work/access-om3.mom6.r.1969-01-01-00000.nc.0026:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000.nc.0026
+  hashes:
+    binhash: aeb369b38710de6656b7918d73f42266
+    md5: 188a161391da08c9a9857e809c110c89
+work/access-om3.mom6.r.1969-01-01-00000.nc.0027:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000.nc.0027
+  hashes:
+    binhash: 0ae8a47ae6f02a82f53a80fe1016cb2e
+    md5: f9cd1a55a769cb31fb80661364bf9881
+work/access-om3.mom6.r.1969-01-01-00000.nc.0028:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000.nc.0028
+  hashes:
+    binhash: 462f8d87cd454d14557085f17c467118
+    md5: 326f339b6b327e7820d408c829002dc6
+work/access-om3.mom6.r.1969-01-01-00000.nc.0029:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000.nc.0029
+  hashes:
+    binhash: bac8f3a2ea12a82618a64673d8ea3814
+    md5: 7a746eb24818ddbf47ba1bdf92148188
+work/access-om3.mom6.r.1969-01-01-00000.nc.0030:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000.nc.0030
+  hashes:
+    binhash: 5d805ac8bd80b11f8ee6bc00ac2b32e8
+    md5: 1bef1371f2e18e0a23a9a11f18211077
+work/access-om3.mom6.r.1969-01-01-00000.nc.0031:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000.nc.0031
+  hashes:
+    binhash: 07fbcbae4b71e3aad7290e6c9941103a
+    md5: 1d192171a754a38dae53f3f038216c75
+work/access-om3.mom6.r.1969-01-01-00000.nc.0032:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000.nc.0032
+  hashes:
+    binhash: 6f19d7cfb11bd0a13cb174eae1c4449f
+    md5: f6f5fc15b5c44a64429cc4182f3f44f7
+work/access-om3.mom6.r.1969-01-01-00000.nc.0033:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000.nc.0033
+  hashes:
+    binhash: f3b0e8634d1b94cfa4d17082cdab67c3
+    md5: ec4f9509604b983f3faa1cbc5000786b
+work/access-om3.mom6.r.1969-01-01-00000.nc.0034:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000.nc.0034
+  hashes:
+    binhash: ab84aaf43845add090671a0ed067180d
+    md5: 928735996c729748523b726ff640cd8d
+work/access-om3.mom6.r.1969-01-01-00000.nc.0035:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000.nc.0035
+  hashes:
+    binhash: c13915c0381b0c98f2dd06dac36f5e83
+    md5: aee7b69dd149fa980b764b945730ecb1
+work/access-om3.mom6.r.1969-01-01-00000.nc.0037:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000.nc.0037
+  hashes:
+    binhash: bf1a4f9c6a1d44a12181a6922b1fe75f
+    md5: 7a747780c0b88285aedab081dbb0db33
+work/access-om3.mom6.r.1969-01-01-00000.nc.0038:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000.nc.0038
+  hashes:
+    binhash: ebb34b94624b6bad27f968d32714d4b8
+    md5: 51059ce7014d54cd8bd2ebd2fdfaa7a5
+work/access-om3.mom6.r.1969-01-01-00000.nc.0039:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000.nc.0039
+  hashes:
+    binhash: d7fb8b751aa43e24047ccc8ebb009796
+    md5: 05439ed864f81953ff31a3cef9e267b5
+work/access-om3.mom6.r.1969-01-01-00000.nc.0040:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000.nc.0040
+  hashes:
+    binhash: e72c96faa4cb4e5badc1ee275fc40dca
+    md5: 8514975bedb0b8ed40d55c7d3ba39e5b
+work/access-om3.mom6.r.1969-01-01-00000.nc.0041:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000.nc.0041
+  hashes:
+    binhash: 59c5f11a8fd5311a81ec9aa7b1442dd0
+    md5: 06982d62afd108629ed9ad6205d09522
+work/access-om3.mom6.r.1969-01-01-00000.nc.0042:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000.nc.0042
+  hashes:
+    binhash: 617d453343105aac8be9a133a29352fa
+    md5: ec3d5bac8acf318fe6fd77f38a50c9bc
+work/access-om3.mom6.r.1969-01-01-00000.nc.0043:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000.nc.0043
+  hashes:
+    binhash: 216fbb30b05f485b7b8d160c45cb5aa5
+    md5: 1c014c66beabcc159d7b3b3a59e0b185
+work/access-om3.mom6.r.1969-01-01-00000.nc.0044:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000.nc.0044
+  hashes:
+    binhash: 41fb4d3efc9a996f29748d175c1a60b8
+    md5: e40ca3efeef0bb5c59b3c0656cea86a7
+work/access-om3.mom6.r.1969-01-01-00000.nc.0045:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000.nc.0045
+  hashes:
+    binhash: 6f19cf284bfcf838b0eaf9606ba9584f
+    md5: 4a4086f44a5df7e0b7ceb922f98912e5
+work/access-om3.mom6.r.1969-01-01-00000.nc.0046:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000.nc.0046
+  hashes:
+    binhash: bc43e4e8f8f16e562abf1c8faf14e6ba
+    md5: a67bb5c8d973e7c27e2c974ba21f20dd
+work/access-om3.mom6.r.1969-01-01-00000.nc.0047:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000.nc.0047
+  hashes:
+    binhash: 52afee83af5972d0d5d33b7db5ba8858
+    md5: 934a522cb8146171e0805a6e86f53b60
+work/access-om3.mom6.r.1969-01-01-00000.nc.0048:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000.nc.0048
+  hashes:
+    binhash: 5f0f7c7a1d437ccaab59f1e622ffb676
+    md5: c180a0fbfc6ec49ef6abb29520c9f32b
+work/access-om3.mom6.r.1969-01-01-00000.nc.0050:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000.nc.0050
+  hashes:
+    binhash: e4c09895e45627da8432dd7b0865e9bd
+    md5: d3d908421b6e45ec8b6d576ba65fad3f
+work/access-om3.mom6.r.1969-01-01-00000.nc.0051:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000.nc.0051
+  hashes:
+    binhash: e0acad1590f7d76b78516194a39f4600
+    md5: a878d374f8b60f2be340ccfdd2920dc2
+work/access-om3.mom6.r.1969-01-01-00000.nc.0052:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000.nc.0052
+  hashes:
+    binhash: e8fcc97bed43087bcc509dec440fac0b
+    md5: e56ea878cd4e6f6bb3340563734434d6
+work/access-om3.mom6.r.1969-01-01-00000.nc.0053:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000.nc.0053
+  hashes:
+    binhash: ed33bfdeef633a895d6b08ba72571f1c
+    md5: d11f9bb665a731c0e407104b77274a70
+work/access-om3.mom6.r.1969-01-01-00000_1.nc.0000:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_1.nc.0000
+  hashes:
+    binhash: 7edf31606c6e86cf0d134d3dd1db675c
+    md5: 04b1c2bc4504a0314ec9f7eacf5ed9eb
+work/access-om3.mom6.r.1969-01-01-00000_1.nc.0001:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_1.nc.0001
+  hashes:
+    binhash: a5dd83d72dc55fe09c2c3723ee3d90aa
+    md5: 264373da0d0ba69bac81c9d818cde7f0
+work/access-om3.mom6.r.1969-01-01-00000_1.nc.0002:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_1.nc.0002
+  hashes:
+    binhash: 637b1d577cf346c2d04d238b6b984325
+    md5: 1861fe57fd9c965c2b5af3a31a5ba8a8
+work/access-om3.mom6.r.1969-01-01-00000_1.nc.0003:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_1.nc.0003
+  hashes:
+    binhash: 68da81557fe8f1aee7cc79c2c5453dc5
+    md5: 607516e1923d5e6e4cc81b8d9a44efe1
+work/access-om3.mom6.r.1969-01-01-00000_1.nc.0004:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_1.nc.0004
+  hashes:
+    binhash: e435e910ce20c6a2d5753f06d64f492d
+    md5: 9e35ce8f7a74c71c8c688c1c0500ce80
+work/access-om3.mom6.r.1969-01-01-00000_1.nc.0005:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_1.nc.0005
+  hashes:
+    binhash: 737f3d9da7bbc2a76422ccbc34a0faa4
+    md5: 6132901479b0093a9cb54ef8eb9e6bfd
+work/access-om3.mom6.r.1969-01-01-00000_1.nc.0006:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_1.nc.0006
+  hashes:
+    binhash: 6a186f193c57c512c95d15c9403e2667
+    md5: f665d415382b20e74e841c909fedb53d
+work/access-om3.mom6.r.1969-01-01-00000_1.nc.0007:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_1.nc.0007
+  hashes:
+    binhash: b2fd7ed48617db281550fb1c740cd5d0
+    md5: 1dc8e05884204d2b4871d149a4ac7687
+work/access-om3.mom6.r.1969-01-01-00000_1.nc.0008:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_1.nc.0008
+  hashes:
+    binhash: 339ca932a3967b1220b3744455c3a901
+    md5: 893937435b27059ea8d8999bad53357a
+work/access-om3.mom6.r.1969-01-01-00000_1.nc.0009:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_1.nc.0009
+  hashes:
+    binhash: fd1e07bd31f64eac628f7f2c4711e0e3
+    md5: 7d602f1508028cee1a8dc552cb0d2eec
+work/access-om3.mom6.r.1969-01-01-00000_1.nc.0010:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_1.nc.0010
+  hashes:
+    binhash: b15796226c46b5d9c015bda81e48560a
+    md5: 01437cb1d0ae04a0c15f5e520f3ed995
+work/access-om3.mom6.r.1969-01-01-00000_1.nc.0011:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_1.nc.0011
+  hashes:
+    binhash: a65386bdf8c85c8c5140873c66f5ee28
+    md5: 136ee16c7a9b0f9efd554248de300665
+work/access-om3.mom6.r.1969-01-01-00000_1.nc.0012:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_1.nc.0012
+  hashes:
+    binhash: 67905ff5105660eeef33b55995af1c41
+    md5: f2759dca42ce5f54242756bb5b54c0a2
+work/access-om3.mom6.r.1969-01-01-00000_1.nc.0013:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_1.nc.0013
+  hashes:
+    binhash: eff54c8d9ab47e093c112f4708ee3452
+    md5: f5d48a105c81e1e95d3e30874c3c1378
+work/access-om3.mom6.r.1969-01-01-00000_1.nc.0014:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_1.nc.0014
+  hashes:
+    binhash: 6528f89057a4c49faa39396196fdfa37
+    md5: acdc8b3861a418b8756b4ee3c9347e8d
+work/access-om3.mom6.r.1969-01-01-00000_1.nc.0015:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_1.nc.0015
+  hashes:
+    binhash: 0d1730b37611c1023b6bfa8d0bc3fa5b
+    md5: 948a118a5dcaf7df05e9b4082af4c4cc
+work/access-om3.mom6.r.1969-01-01-00000_1.nc.0016:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_1.nc.0016
+  hashes:
+    binhash: 618dd745b7f5fd1e4335cafef9424f34
+    md5: 979481346728d16a5a7465777aed540d
+work/access-om3.mom6.r.1969-01-01-00000_1.nc.0017:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_1.nc.0017
+  hashes:
+    binhash: 0d1371a8931f216cb59ce1480c8fd65a
+    md5: 252e9951a38542f00062a9388736b90d
+work/access-om3.mom6.r.1969-01-01-00000_1.nc.0018:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_1.nc.0018
+  hashes:
+    binhash: 4f9dbf5a6dabc2ee3907d8cc88d27954
+    md5: 2030442dad04a6d22e3ae2c61a4f1d46
+work/access-om3.mom6.r.1969-01-01-00000_1.nc.0019:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_1.nc.0019
+  hashes:
+    binhash: f5e2d447c158282e1494226970e49207
+    md5: 65516b16c1a416afde0b40b6005c1dd9
+work/access-om3.mom6.r.1969-01-01-00000_1.nc.0020:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_1.nc.0020
+  hashes:
+    binhash: 1d7eac519d1f7801cb9f995cb83c00ed
+    md5: e5ab821930d125c6ce4d4a35d85455fc
+work/access-om3.mom6.r.1969-01-01-00000_1.nc.0021:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_1.nc.0021
+  hashes:
+    binhash: 814353631a3306137eb573a2168a145f
+    md5: 3f8360d81508ce21833effcbf13ddb6c
+work/access-om3.mom6.r.1969-01-01-00000_1.nc.0022:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_1.nc.0022
+  hashes:
+    binhash: f123eb07251c2d954884dc7466058bbc
+    md5: c7342f47ecd48277b4ba90b46ee25986
+work/access-om3.mom6.r.1969-01-01-00000_1.nc.0023:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_1.nc.0023
+  hashes:
+    binhash: b1feaa38198a6b34dcda273ce813571c
+    md5: a260534d3dcbcfd4e304134744f675ee
+work/access-om3.mom6.r.1969-01-01-00000_1.nc.0024:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_1.nc.0024
+  hashes:
+    binhash: a36d14cb3415eac2333a8160e140cdca
+    md5: 26fef0c7d345ea81d5c50541bdc63475
+work/access-om3.mom6.r.1969-01-01-00000_1.nc.0025:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_1.nc.0025
+  hashes:
+    binhash: 48c0f61cd716d4b77fe493fdad731988
+    md5: 4feeb563d7d3329ba4943ec29d8847f8
+work/access-om3.mom6.r.1969-01-01-00000_1.nc.0026:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_1.nc.0026
+  hashes:
+    binhash: 726e820a436a116ad624918614a48e57
+    md5: bffd7a96d13fdacf82ef269e87c20ec2
+work/access-om3.mom6.r.1969-01-01-00000_1.nc.0027:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_1.nc.0027
+  hashes:
+    binhash: 6965d731f2046795141d87c742a2d102
+    md5: 6d05d7a140f2ce42ff038d1d6d86e25c
+work/access-om3.mom6.r.1969-01-01-00000_1.nc.0028:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_1.nc.0028
+  hashes:
+    binhash: d8dd23795ed89b1d8a62ec19f2601e0e
+    md5: 4ea9f0066ca2828bbe7189bf995e30a5
+work/access-om3.mom6.r.1969-01-01-00000_1.nc.0029:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_1.nc.0029
+  hashes:
+    binhash: 3ba3ca7dfd383b9db10761c227b287fc
+    md5: 23a1df831dcba2813289791b293920fc
+work/access-om3.mom6.r.1969-01-01-00000_1.nc.0030:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_1.nc.0030
+  hashes:
+    binhash: f5944009140ac4de3a4ad5e35fb4ff25
+    md5: 00435c7b6300cc5395992781aef28b9e
+work/access-om3.mom6.r.1969-01-01-00000_1.nc.0031:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_1.nc.0031
+  hashes:
+    binhash: ce2a3d474b7a0ae6b3291ebe1bafbd9d
+    md5: 9661e6a564045cd5a05e90126ac1d217
+work/access-om3.mom6.r.1969-01-01-00000_1.nc.0032:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_1.nc.0032
+  hashes:
+    binhash: 892d86dece829b7cd7a15a4279ddbc60
+    md5: fb3c186d957e17077ff03d98cba6f56e
+work/access-om3.mom6.r.1969-01-01-00000_1.nc.0033:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_1.nc.0033
+  hashes:
+    binhash: 58bf393d34b86123fb778d7ea5359a79
+    md5: e177132323a2188b9d5cbe0a5ca0bbde
+work/access-om3.mom6.r.1969-01-01-00000_1.nc.0034:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_1.nc.0034
+  hashes:
+    binhash: 298192ec23f6db2efad81baf1b66b073
+    md5: 6b06cdc08c215ce16ed76fc09276eb42
+work/access-om3.mom6.r.1969-01-01-00000_1.nc.0035:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_1.nc.0035
+  hashes:
+    binhash: 25380497c69d1ca5afb8fd06691e93a0
+    md5: 915d261aa1525fa6176b7481b3e4b0a7
+work/access-om3.mom6.r.1969-01-01-00000_1.nc.0037:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_1.nc.0037
+  hashes:
+    binhash: cb6b0c31e175bc6708e848ba4e7487a6
+    md5: 1c5b6c91ce4b5a0cc64d732ac4467af1
+work/access-om3.mom6.r.1969-01-01-00000_1.nc.0038:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_1.nc.0038
+  hashes:
+    binhash: 996f02ca9af074b71b9e41446572bceb
+    md5: 6f05da720056813b2eae868b900b1fba
+work/access-om3.mom6.r.1969-01-01-00000_1.nc.0039:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_1.nc.0039
+  hashes:
+    binhash: cb773621c71f6e9af81337c9f967f52e
+    md5: 1fa06b7b23ad84918cb968236d177ca0
+work/access-om3.mom6.r.1969-01-01-00000_1.nc.0040:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_1.nc.0040
+  hashes:
+    binhash: 20d987da4b99b917747842ec5e61944f
+    md5: c83dfb0fcb94d0209ff34b4ff1b2b9ad
+work/access-om3.mom6.r.1969-01-01-00000_1.nc.0041:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_1.nc.0041
+  hashes:
+    binhash: 6cab04bb1d745e97af5729f4bb7c8b4d
+    md5: 0e04b02e34443bf7f6c58c710055f6e0
+work/access-om3.mom6.r.1969-01-01-00000_1.nc.0042:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_1.nc.0042
+  hashes:
+    binhash: 1b96a3cfc5b8c4eca4fb85d1cf8d6ec8
+    md5: 80b00496022b7e281215c4ab193b0006
+work/access-om3.mom6.r.1969-01-01-00000_1.nc.0043:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_1.nc.0043
+  hashes:
+    binhash: c223a2a2be18dfab85c7b232b4477f40
+    md5: 62b9606a47c04671024067ee1bee71b8
+work/access-om3.mom6.r.1969-01-01-00000_1.nc.0044:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_1.nc.0044
+  hashes:
+    binhash: 3fcf481fb68ba5216a6a308707032b88
+    md5: 89ffe5b2735b1291b86360f88f5b0bfb
+work/access-om3.mom6.r.1969-01-01-00000_1.nc.0045:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_1.nc.0045
+  hashes:
+    binhash: c894724d1e67c0943023fdeb41e673c1
+    md5: 4a629c5fbe9037bb9ac4830c8cb0fbcd
+work/access-om3.mom6.r.1969-01-01-00000_1.nc.0046:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_1.nc.0046
+  hashes:
+    binhash: cb3d8ce7370abd217ac5a3bc9d8e61b8
+    md5: 30d62a25f1c0f8bed686ef1b24042885
+work/access-om3.mom6.r.1969-01-01-00000_1.nc.0047:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_1.nc.0047
+  hashes:
+    binhash: 0e1dbb9f181ba141fcd896652130c645
+    md5: 134bd5cb246ae00463b81004fef1c6c0
+work/access-om3.mom6.r.1969-01-01-00000_1.nc.0048:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_1.nc.0048
+  hashes:
+    binhash: cb7504bb664e9734d0c5ffbb286e7460
+    md5: 5f764370056660394b46d3b3c487d377
+work/access-om3.mom6.r.1969-01-01-00000_1.nc.0050:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_1.nc.0050
+  hashes:
+    binhash: 704704243c2678326871cf83a24f056d
+    md5: 5158595791a448156052952beefc8924
+work/access-om3.mom6.r.1969-01-01-00000_1.nc.0051:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_1.nc.0051
+  hashes:
+    binhash: e68f6c5dda97a8848bcf3ca87e6e9096
+    md5: a2d4e3aea4d34a03922b25675bbb9afd
+work/access-om3.mom6.r.1969-01-01-00000_1.nc.0052:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_1.nc.0052
+  hashes:
+    binhash: 59818c8741bce141c1fee248dfe01fbb
+    md5: 540b61f4f4c0b60d36731dabf5f5a7c9
+work/access-om3.mom6.r.1969-01-01-00000_1.nc.0053:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_1.nc.0053
+  hashes:
+    binhash: 0a8f6eaabb50be2591cbce7eec14ae96
+    md5: 90c79a8dc5a2c18f3cb984bbea08416e
+work/access-om3.mom6.r.1969-01-01-00000_2.nc.0000:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_2.nc.0000
+  hashes:
+    binhash: ca303fcf973534feea725cb85984ac25
+    md5: fde5404625046a70e9af66f3b6c36677
+work/access-om3.mom6.r.1969-01-01-00000_2.nc.0001:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_2.nc.0001
+  hashes:
+    binhash: 6add875e08b2da2f981588b2c7b359c9
+    md5: fe8712ff1dcbb95d92d08c51883bf504
+work/access-om3.mom6.r.1969-01-01-00000_2.nc.0002:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_2.nc.0002
+  hashes:
+    binhash: 430cf534c08aace6210ecf47246f91b0
+    md5: bf7b42e0f5e30d3e543a8d2694940086
+work/access-om3.mom6.r.1969-01-01-00000_2.nc.0003:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_2.nc.0003
+  hashes:
+    binhash: 732ca312b98ac37109c02a2bfb7d8689
+    md5: 38ac3d094e161ed1839e971053505151
+work/access-om3.mom6.r.1969-01-01-00000_2.nc.0004:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_2.nc.0004
+  hashes:
+    binhash: ea8047272f749ae158df035f2d7a6454
+    md5: 2bcefdee492c5ade3b3fc90e6fc8bb50
+work/access-om3.mom6.r.1969-01-01-00000_2.nc.0005:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_2.nc.0005
+  hashes:
+    binhash: 8193a35967346217c31fe40c81f69e17
+    md5: 86cad3abb82993a31cc0e46ad543cf78
+work/access-om3.mom6.r.1969-01-01-00000_2.nc.0006:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_2.nc.0006
+  hashes:
+    binhash: 548f285c7f267a7f14d8090cc0583d3a
+    md5: 807ac5fd5782d71a89ad3faf764e2a28
+work/access-om3.mom6.r.1969-01-01-00000_2.nc.0007:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_2.nc.0007
+  hashes:
+    binhash: 60cd50b44dad3a838cccffc4d6d62a49
+    md5: 2df3e829aa46723abe2bc3889eed7c18
+work/access-om3.mom6.r.1969-01-01-00000_2.nc.0008:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_2.nc.0008
+  hashes:
+    binhash: c9c10692ab8b8781c288b416aabc7db4
+    md5: c83b4df75c7fdf8689afb9055ce52274
+work/access-om3.mom6.r.1969-01-01-00000_2.nc.0009:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_2.nc.0009
+  hashes:
+    binhash: 7e325dab0d2304e39d57e12fe857e76f
+    md5: 9c502236a3c2682c4395e8586eb99c80
+work/access-om3.mom6.r.1969-01-01-00000_2.nc.0010:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_2.nc.0010
+  hashes:
+    binhash: 401efa2548a468b240904177021bdbbb
+    md5: 117ef24b509d8b952f03cda7b6abcb24
+work/access-om3.mom6.r.1969-01-01-00000_2.nc.0011:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_2.nc.0011
+  hashes:
+    binhash: e391e955ead7e46309b43c4c0c953953
+    md5: 23718b2e64e464c022f7c8886b5f7292
+work/access-om3.mom6.r.1969-01-01-00000_2.nc.0012:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_2.nc.0012
+  hashes:
+    binhash: e52607823549dd1f85e189d68645bfaf
+    md5: db23c5ee5a66f946c1f7e9b086017109
+work/access-om3.mom6.r.1969-01-01-00000_2.nc.0013:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_2.nc.0013
+  hashes:
+    binhash: e2f4a814279750ada68337debf50d598
+    md5: 91673d6bf18533d8abfce3c551928b49
+work/access-om3.mom6.r.1969-01-01-00000_2.nc.0014:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_2.nc.0014
+  hashes:
+    binhash: 1d0ab5224d864937b4f2d84297aa8976
+    md5: f8effe9f6fa6f959e4a7e58113eb8a72
+work/access-om3.mom6.r.1969-01-01-00000_2.nc.0015:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_2.nc.0015
+  hashes:
+    binhash: 18a2a542e4bed4c957a323b3f3fd8d17
+    md5: 7a7813b39966a5e33f1b2f0f584dd599
+work/access-om3.mom6.r.1969-01-01-00000_2.nc.0016:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_2.nc.0016
+  hashes:
+    binhash: 6763409aaf6b2f9b2c2c4f651cc548b2
+    md5: cf7db50cadca5a83f6ec9715907e4da6
+work/access-om3.mom6.r.1969-01-01-00000_2.nc.0017:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_2.nc.0017
+  hashes:
+    binhash: 66970e2bed22405c0fefcc66e8bc32a2
+    md5: f5717e3fb22b3d91f873db1ff112893b
+work/access-om3.mom6.r.1969-01-01-00000_2.nc.0018:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_2.nc.0018
+  hashes:
+    binhash: af776040345eb8548c5fdb8600ad360f
+    md5: 1d72322e17299485d8a9f43bf5ecaa98
+work/access-om3.mom6.r.1969-01-01-00000_2.nc.0019:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_2.nc.0019
+  hashes:
+    binhash: 04728d97a5e116febfa9bd044f990aa3
+    md5: bfe969952d9dc1c8a77f108d0a7cdd00
+work/access-om3.mom6.r.1969-01-01-00000_2.nc.0020:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_2.nc.0020
+  hashes:
+    binhash: 7100c0011f1eda36df65d376b89dc7e7
+    md5: 9cd0c54f1dc9c10fb4462da736cbcdc9
+work/access-om3.mom6.r.1969-01-01-00000_2.nc.0021:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_2.nc.0021
+  hashes:
+    binhash: 8f6756f32e370214d1821784ceac0fbe
+    md5: e4e5dc3a58df180f830e88b8d28d0a01
+work/access-om3.mom6.r.1969-01-01-00000_2.nc.0022:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_2.nc.0022
+  hashes:
+    binhash: 9253d473c8816682fff3b3a13b078245
+    md5: e5d6f56f4169e7338042e1fcc46fc187
+work/access-om3.mom6.r.1969-01-01-00000_2.nc.0023:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_2.nc.0023
+  hashes:
+    binhash: 1effee9c195278ebc1b48a154f69090c
+    md5: 74c7002b9e1ac184e56a2fa9a378ea21
+work/access-om3.mom6.r.1969-01-01-00000_2.nc.0024:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_2.nc.0024
+  hashes:
+    binhash: 5137de27789b25d504f368cf2be9d637
+    md5: 1de005aeacb3430b0ff140194db721d5
+work/access-om3.mom6.r.1969-01-01-00000_2.nc.0025:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_2.nc.0025
+  hashes:
+    binhash: b90b42d441dba8398f8eccd250363ef5
+    md5: c2e16b33115d15410e1c2e547719dacf
+work/access-om3.mom6.r.1969-01-01-00000_2.nc.0026:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_2.nc.0026
+  hashes:
+    binhash: db6f660130a7b8a0c09febac4f1041aa
+    md5: f8d8cd034139ebd833bbe60b432e57b0
+work/access-om3.mom6.r.1969-01-01-00000_2.nc.0027:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_2.nc.0027
+  hashes:
+    binhash: 33757d20f212508c5475638f317dd74f
+    md5: 5419610f854faabaf7a48d0a78d43bf7
+work/access-om3.mom6.r.1969-01-01-00000_2.nc.0028:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_2.nc.0028
+  hashes:
+    binhash: 373236b2cde3d4e21da7e78099f85e43
+    md5: 156d77163f999c28fce1956de107c774
+work/access-om3.mom6.r.1969-01-01-00000_2.nc.0029:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_2.nc.0029
+  hashes:
+    binhash: 6257472b43655584d4374429bb7da10b
+    md5: eec9563db81cb92b769c37eeac4ce26e
+work/access-om3.mom6.r.1969-01-01-00000_2.nc.0030:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_2.nc.0030
+  hashes:
+    binhash: 59b9fa43541e4ef30cde90f8c67304ad
+    md5: 7925c21f81f3e7a576c73503a6796330
+work/access-om3.mom6.r.1969-01-01-00000_2.nc.0031:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_2.nc.0031
+  hashes:
+    binhash: 2fec4bc48f5a1fb0fdff8757bc60d573
+    md5: 0a1d339e2946825da0aab788f589870f
+work/access-om3.mom6.r.1969-01-01-00000_2.nc.0032:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_2.nc.0032
+  hashes:
+    binhash: d7392614cb084574c03e3dae6541609f
+    md5: 397f79ad8d265ee8103f8a4f4030172f
+work/access-om3.mom6.r.1969-01-01-00000_2.nc.0033:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_2.nc.0033
+  hashes:
+    binhash: b22f25e917369d8cf5162993691b8892
+    md5: 372ebeb6b89d1511f898172cd1032b03
+work/access-om3.mom6.r.1969-01-01-00000_2.nc.0034:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_2.nc.0034
+  hashes:
+    binhash: eae0e80f8ca10f789f8dc23904d7035b
+    md5: fae574656c1d002bce255f9697f778c8
+work/access-om3.mom6.r.1969-01-01-00000_2.nc.0035:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_2.nc.0035
+  hashes:
+    binhash: b8eb4ab10c33372da420bc0435aaa72f
+    md5: 2609dab87ce4170d7eab18c39de41376
+work/access-om3.mom6.r.1969-01-01-00000_2.nc.0037:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_2.nc.0037
+  hashes:
+    binhash: e79aa53af23ec40b8499a334be61f4f3
+    md5: 43f20d0da6b0599a8df88d34f3386fd4
+work/access-om3.mom6.r.1969-01-01-00000_2.nc.0038:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_2.nc.0038
+  hashes:
+    binhash: a6f396e7a6a8cb5adf4a09c76c9fea7b
+    md5: b5c094740e1a3020a51dd11ea7db68d3
+work/access-om3.mom6.r.1969-01-01-00000_2.nc.0039:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_2.nc.0039
+  hashes:
+    binhash: 51c40a7494eb41e4e985bb4441576a42
+    md5: 2a801b76c1943c502f9eec49f1035e50
+work/access-om3.mom6.r.1969-01-01-00000_2.nc.0040:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_2.nc.0040
+  hashes:
+    binhash: 5db5cfa2b6f68d82c5ff7a52190127df
+    md5: c1268ab925a63f6ccdc6251570feac63
+work/access-om3.mom6.r.1969-01-01-00000_2.nc.0041:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_2.nc.0041
+  hashes:
+    binhash: 38ad3d96fb71d9fc24fe91c481b1cf12
+    md5: 080e2fe61c19206cfd4c42187d55d95a
+work/access-om3.mom6.r.1969-01-01-00000_2.nc.0042:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_2.nc.0042
+  hashes:
+    binhash: 26219870a7d426113cce7fb9f2f68e47
+    md5: ce2e9240a2dfb4ba86d16c6a8671b86f
+work/access-om3.mom6.r.1969-01-01-00000_2.nc.0043:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_2.nc.0043
+  hashes:
+    binhash: a1a593c0521eed301c8405fbf7dc1515
+    md5: da8f5f5f0f64e1f240f809585ffa8267
+work/access-om3.mom6.r.1969-01-01-00000_2.nc.0044:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_2.nc.0044
+  hashes:
+    binhash: 4090b4a243e88c10ab5a102499746963
+    md5: 43bc3cfd1e31ec5ccfd2ab1c10bae990
+work/access-om3.mom6.r.1969-01-01-00000_2.nc.0045:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_2.nc.0045
+  hashes:
+    binhash: 880efdc1f0284311d5cc8c7924bf8920
+    md5: 29d56cc6bc2849cc101920e0a9ba33d6
+work/access-om3.mom6.r.1969-01-01-00000_2.nc.0046:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_2.nc.0046
+  hashes:
+    binhash: 163a723b6ea82e00788ffd42299f2fe5
+    md5: 717e8588d5a48a582b768f2add9420cf
+work/access-om3.mom6.r.1969-01-01-00000_2.nc.0047:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_2.nc.0047
+  hashes:
+    binhash: 69f01fb599c87556da54567a2eaad934
+    md5: abe8ca1a1908252641979bd6c6a2f7db
+work/access-om3.mom6.r.1969-01-01-00000_2.nc.0048:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_2.nc.0048
+  hashes:
+    binhash: 4bdb851443a5c4bc2eae9f4eb0f5fe2a
+    md5: c83d4ca2fc3d35e98a40640aac906e01
+work/access-om3.mom6.r.1969-01-01-00000_2.nc.0050:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_2.nc.0050
+  hashes:
+    binhash: d330c047761e3153367d35a97e879480
+    md5: 5dd7b192c6e10ffa874dde3ab9498d61
+work/access-om3.mom6.r.1969-01-01-00000_2.nc.0051:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_2.nc.0051
+  hashes:
+    binhash: 5576c3fd6c9687c0d91994a9d784ee1e
+    md5: 6a7d39802b8adad5e10f0ac51103f2fa
+work/access-om3.mom6.r.1969-01-01-00000_2.nc.0052:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_2.nc.0052
+  hashes:
+    binhash: 29cdfed4fa5fc08e1b30e24d696f8ccc
+    md5: 4aeaaa6316d383085b51883b6de2d429
+work/access-om3.mom6.r.1969-01-01-00000_2.nc.0053:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_2.nc.0053
+  hashes:
+    binhash: 02932f3289ada9a36922b2e676524c1a
+    md5: 95655a7c8dcc4238cc66de9a5d0c1882
+work/access-om3.mom6.r.1969-01-01-00000_3.nc.0000:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_3.nc.0000
+  hashes:
+    binhash: ba4f71de45071308c9de526b416412ce
+    md5: 9bf462890824794e5d0ffe0eef0fcd9e
+work/access-om3.mom6.r.1969-01-01-00000_3.nc.0001:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_3.nc.0001
+  hashes:
+    binhash: e506f275b0006b8b73f3bf6188a76e5b
+    md5: 69627642ca0e36d5cf13268f87e73523
+work/access-om3.mom6.r.1969-01-01-00000_3.nc.0002:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_3.nc.0002
+  hashes:
+    binhash: fdd3d785ae9db4be22edb961652bef5e
+    md5: 1c3ffe8a3fe232c65ed86ea144b58144
+work/access-om3.mom6.r.1969-01-01-00000_3.nc.0003:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_3.nc.0003
+  hashes:
+    binhash: 0f4da33397ef5a1e5e1d2058f4fdabbc
+    md5: 0899415d3587587250584df42a59e7f7
+work/access-om3.mom6.r.1969-01-01-00000_3.nc.0004:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_3.nc.0004
+  hashes:
+    binhash: c47804d104a11376ee31c776858253a4
+    md5: 1db2f46e0c1857988a4edefe88e36d38
+work/access-om3.mom6.r.1969-01-01-00000_3.nc.0005:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_3.nc.0005
+  hashes:
+    binhash: b376479f99fc00319ec20edb19e41626
+    md5: 0364a87f948571652155b3a2f2c485c0
+work/access-om3.mom6.r.1969-01-01-00000_3.nc.0006:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_3.nc.0006
+  hashes:
+    binhash: 2ffd509d1972cdcbefce2be712526135
+    md5: adb83ea3b60b97ba3f97cee1566e502d
+work/access-om3.mom6.r.1969-01-01-00000_3.nc.0007:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_3.nc.0007
+  hashes:
+    binhash: 4eaf606a585ae617b5f8c946fae0a050
+    md5: 442c543a45c81a195c58927fe0f19a8f
+work/access-om3.mom6.r.1969-01-01-00000_3.nc.0008:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_3.nc.0008
+  hashes:
+    binhash: 84e74b29c5d052985ddd11340f9070b9
+    md5: bf7a8c48e85065509f748d64f84fe3b6
+work/access-om3.mom6.r.1969-01-01-00000_3.nc.0009:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_3.nc.0009
+  hashes:
+    binhash: 0f244ae240230f5879c3abe25a4e6291
+    md5: 806e1dd6ae6f7c83cfe0a45a92a51064
+work/access-om3.mom6.r.1969-01-01-00000_3.nc.0010:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_3.nc.0010
+  hashes:
+    binhash: a054bac43d052416c3ca1f7cdb59b8d2
+    md5: 07205d88eb3638e754e93f159df5e146
+work/access-om3.mom6.r.1969-01-01-00000_3.nc.0011:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_3.nc.0011
+  hashes:
+    binhash: 288b70f2479816620c65eb6f5204cbc5
+    md5: 125856ec446f3049d35ca1cb11994f0e
+work/access-om3.mom6.r.1969-01-01-00000_3.nc.0012:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_3.nc.0012
+  hashes:
+    binhash: d1d0a6451960ed78af4a3bc861993199
+    md5: 6d122a47183b1074ca61274c964d33d9
+work/access-om3.mom6.r.1969-01-01-00000_3.nc.0013:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_3.nc.0013
+  hashes:
+    binhash: c4f0bbb1de47ed2f6218935c85b10194
+    md5: 52d07a8e8d184527f97720c5f1b1f426
+work/access-om3.mom6.r.1969-01-01-00000_3.nc.0014:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_3.nc.0014
+  hashes:
+    binhash: 7134b6fe3cd61d4a1cb16ea0e459d229
+    md5: 625137fdb9d84193eeb02f85c77047e6
+work/access-om3.mom6.r.1969-01-01-00000_3.nc.0015:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_3.nc.0015
+  hashes:
+    binhash: ce0c718dfd42d125ea4b6cfb5cc7f174
+    md5: 0835219941f708a574a8f6b1ca6eaf27
+work/access-om3.mom6.r.1969-01-01-00000_3.nc.0016:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_3.nc.0016
+  hashes:
+    binhash: 05aab97aa3c680ce632897ee6469b754
+    md5: 9b874e4745d9631fca3400aacc097a86
+work/access-om3.mom6.r.1969-01-01-00000_3.nc.0017:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_3.nc.0017
+  hashes:
+    binhash: c944d014016d11ab7b576b6b7fac7822
+    md5: ece36cb9f23c135f081341f0b15f210d
+work/access-om3.mom6.r.1969-01-01-00000_3.nc.0018:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_3.nc.0018
+  hashes:
+    binhash: 363b027ff5d1ac0759093a2dbabc525e
+    md5: cc380c5487945e8bc077ca1c6b380f7a
+work/access-om3.mom6.r.1969-01-01-00000_3.nc.0019:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_3.nc.0019
+  hashes:
+    binhash: 511d6329c367ae58160363bb8ae49e81
+    md5: 9e55cdac4e7ee3ad5afdf452a56cd2c1
+work/access-om3.mom6.r.1969-01-01-00000_3.nc.0020:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_3.nc.0020
+  hashes:
+    binhash: a890ed9a3bd66a55bb70db8128bc65ac
+    md5: 8cebacedd46c4a163d541ee8a9206718
+work/access-om3.mom6.r.1969-01-01-00000_3.nc.0021:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_3.nc.0021
+  hashes:
+    binhash: 7e9f2605d547ccc6fac5fe878a744f5e
+    md5: 1a774856a06bb0c414be72cc9da9e518
+work/access-om3.mom6.r.1969-01-01-00000_3.nc.0022:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_3.nc.0022
+  hashes:
+    binhash: 5f90f9be06b4970952ee3347c126bab7
+    md5: 10f8308a8f08f9ade9be5017f491e537
+work/access-om3.mom6.r.1969-01-01-00000_3.nc.0023:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_3.nc.0023
+  hashes:
+    binhash: 0b552e004b58c98f1c134cd6d57d7e9f
+    md5: e47c65082a686d96ca3acb366294b54b
+work/access-om3.mom6.r.1969-01-01-00000_3.nc.0024:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_3.nc.0024
+  hashes:
+    binhash: a470ea9c48e11aa7caaaf0a255deeea4
+    md5: f788f22ea9276cb6cea502fe04698822
+work/access-om3.mom6.r.1969-01-01-00000_3.nc.0025:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_3.nc.0025
+  hashes:
+    binhash: abff37a50445409147c9997f92063321
+    md5: 5d4def3515566464fb1acf05ffcd5062
+work/access-om3.mom6.r.1969-01-01-00000_3.nc.0026:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_3.nc.0026
+  hashes:
+    binhash: 88218e29ee7ac30984d97e0c6a4a01f6
+    md5: 8b6b931057aae0c8912c78646f8d7ae9
+work/access-om3.mom6.r.1969-01-01-00000_3.nc.0027:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_3.nc.0027
+  hashes:
+    binhash: 9fa1701b918620785f839b19b45bd873
+    md5: 049c8993a47a7b3daedbbff8936cfa7b
+work/access-om3.mom6.r.1969-01-01-00000_3.nc.0028:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_3.nc.0028
+  hashes:
+    binhash: becd9500aff671a7d7f23f7577ad945d
+    md5: f775c45a701952db9423b4ff468f5357
+work/access-om3.mom6.r.1969-01-01-00000_3.nc.0029:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_3.nc.0029
+  hashes:
+    binhash: 78a3e0c00f98c1a1d684c77797bf29a2
+    md5: f042f9985117982b2daf67163af7d31d
+work/access-om3.mom6.r.1969-01-01-00000_3.nc.0030:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_3.nc.0030
+  hashes:
+    binhash: 2b18fe029102f38f6bf63b877a20795e
+    md5: 13f341e9066cac8b6ecd179f36fdf12f
+work/access-om3.mom6.r.1969-01-01-00000_3.nc.0031:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_3.nc.0031
+  hashes:
+    binhash: 71ed6bcfb6652e78421d52e627912353
+    md5: 77d9909958db037db32d135e5f21af09
+work/access-om3.mom6.r.1969-01-01-00000_3.nc.0032:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_3.nc.0032
+  hashes:
+    binhash: 703c3b681ec82de2e9f60d1534e34f9b
+    md5: 740bc3a95dd5aa3a0911bf01360b5d7d
+work/access-om3.mom6.r.1969-01-01-00000_3.nc.0033:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_3.nc.0033
+  hashes:
+    binhash: 43621652e5ea6cb120077ca7863415e8
+    md5: 7f4881411e4cc58b5e4be3f1e4a236a2
+work/access-om3.mom6.r.1969-01-01-00000_3.nc.0034:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_3.nc.0034
+  hashes:
+    binhash: fd02510251d1b666869d7dffc8d5975c
+    md5: 16c6c0b511aead360b7491e9c78df19a
+work/access-om3.mom6.r.1969-01-01-00000_3.nc.0035:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_3.nc.0035
+  hashes:
+    binhash: cc09a891ba0d8335693453111bffd106
+    md5: 42e2da37a0b81766a95620c22c18c41a
+work/access-om3.mom6.r.1969-01-01-00000_3.nc.0037:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_3.nc.0037
+  hashes:
+    binhash: 2ce81a4eb8768ae200ef227a77b42c04
+    md5: 46978455b2abd6eca86cc967088ff4ee
+work/access-om3.mom6.r.1969-01-01-00000_3.nc.0038:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_3.nc.0038
+  hashes:
+    binhash: dfee96fb5943bd405544a6eb5b78faec
+    md5: 1bbbd4e52061556cb5957b744b7ee491
+work/access-om3.mom6.r.1969-01-01-00000_3.nc.0039:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_3.nc.0039
+  hashes:
+    binhash: 9d2c331e957cf1a3087b898de9a98680
+    md5: df6ed33f634bb2d2703d2b864e2c093c
+work/access-om3.mom6.r.1969-01-01-00000_3.nc.0040:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_3.nc.0040
+  hashes:
+    binhash: 38cf4fbba2a3003004cc18338dc5b7dd
+    md5: ab3bca5c1be619bed42aefe1a6aaf0b2
+work/access-om3.mom6.r.1969-01-01-00000_3.nc.0041:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_3.nc.0041
+  hashes:
+    binhash: fe207b566616b2d015bdb97524d76b70
+    md5: 34a7105aa3007e923eb595699a0508da
+work/access-om3.mom6.r.1969-01-01-00000_3.nc.0042:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_3.nc.0042
+  hashes:
+    binhash: 943538a4c013c84c3fecbd17b0cce1fd
+    md5: add5e70b65f315555fe301da842b2d0f
+work/access-om3.mom6.r.1969-01-01-00000_3.nc.0043:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_3.nc.0043
+  hashes:
+    binhash: 0f591af5d6350e57a60f83af63183304
+    md5: faee8b5d04515b0cb7429c909bf28f6f
+work/access-om3.mom6.r.1969-01-01-00000_3.nc.0044:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_3.nc.0044
+  hashes:
+    binhash: 4c0ffbccbf9bd78faae24c8aaa0bd8b9
+    md5: 884fabb4117144f0830d0c8b9fe4147b
+work/access-om3.mom6.r.1969-01-01-00000_3.nc.0045:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_3.nc.0045
+  hashes:
+    binhash: 8c832c75b69932f8a8e8c6fc1c08245b
+    md5: d31d79a411c83f710df287b3c05713d4
+work/access-om3.mom6.r.1969-01-01-00000_3.nc.0046:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_3.nc.0046
+  hashes:
+    binhash: f3a5673fba9eb7a555227562c54ba07d
+    md5: 15493efa89c13d14dc6f0de805e4fd94
+work/access-om3.mom6.r.1969-01-01-00000_3.nc.0047:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_3.nc.0047
+  hashes:
+    binhash: 9f341bb03f9eaa7c569071a1900ddce3
+    md5: 3a33daf9fb43fc0d1ef5d7a925f5edfa
+work/access-om3.mom6.r.1969-01-01-00000_3.nc.0048:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_3.nc.0048
+  hashes:
+    binhash: a551a11bc19ed6a1c0546ac1a3d7c2b8
+    md5: 2273a3a22b92160bf91de9b8c6d3ca23
+work/access-om3.mom6.r.1969-01-01-00000_3.nc.0050:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_3.nc.0050
+  hashes:
+    binhash: 13502762ceecd32b886fdbf0fd2d1495
+    md5: d994bd290df90b79edd55ab22354f57e
+work/access-om3.mom6.r.1969-01-01-00000_3.nc.0051:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_3.nc.0051
+  hashes:
+    binhash: 80fa28ed16945b1fdfa7118c95d0f719
+    md5: a7d3a13b69f96a0cd7eb9a0db91e8e33
+work/access-om3.mom6.r.1969-01-01-00000_3.nc.0052:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_3.nc.0052
+  hashes:
+    binhash: 44e07826c142bef645923e9aa5a088aa
+    md5: f8434620c17430da4866f12a629da544
+work/access-om3.mom6.r.1969-01-01-00000_3.nc.0053:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_3.nc.0053
+  hashes:
+    binhash: fb676757d5553fc45a5f6e6ba359c2ae
+    md5: 3d9865debd743893ed86b69134189a64
+work/access-om3.mom6.r.1969-01-01-00000_4.nc.0000:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_4.nc.0000
+  hashes:
+    binhash: cf152df1c5ec72c2dc88311cc8e2ed05
+    md5: 85a9b5a038337d34345ff17f6d817f26
+work/access-om3.mom6.r.1969-01-01-00000_4.nc.0001:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_4.nc.0001
+  hashes:
+    binhash: efaff8baf4ee291510f6b8c17c79e9fc
+    md5: b45c5d8176f7e29007bb769c6cbcb4ae
+work/access-om3.mom6.r.1969-01-01-00000_4.nc.0002:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_4.nc.0002
+  hashes:
+    binhash: b6ead2497fa17c8a8757e264ff5a72b2
+    md5: da8e01d54d0e26f8cb5a34b94876b7dc
+work/access-om3.mom6.r.1969-01-01-00000_4.nc.0003:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_4.nc.0003
+  hashes:
+    binhash: b74a4b81bb4b1e4affaa475d2ebf0a46
+    md5: a3c1ac0ff4594360989fb9f12454b3e6
+work/access-om3.mom6.r.1969-01-01-00000_4.nc.0004:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_4.nc.0004
+  hashes:
+    binhash: eb356fa4d4f20b403730ccf2b4e9268f
+    md5: 18d5e4150f3a9c6a73b64ec697726e1e
+work/access-om3.mom6.r.1969-01-01-00000_4.nc.0005:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_4.nc.0005
+  hashes:
+    binhash: cdb7c14eefb4c6b0eb1ed2912956439e
+    md5: 8e9be02ab996adc856333cf02311c005
+work/access-om3.mom6.r.1969-01-01-00000_4.nc.0006:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_4.nc.0006
+  hashes:
+    binhash: 59081814e28c2c3e795eac1202c50625
+    md5: bdf5727faad4f5d0a6ef2c0639ff7d0f
+work/access-om3.mom6.r.1969-01-01-00000_4.nc.0007:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_4.nc.0007
+  hashes:
+    binhash: 0b107b268648fdd42704492d04c6b272
+    md5: 095b5ae7665903c718a4ebe676b060a1
+work/access-om3.mom6.r.1969-01-01-00000_4.nc.0008:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_4.nc.0008
+  hashes:
+    binhash: a5a2e397844285d3ae3c6d1345ff3b48
+    md5: cd9642a7c14b4422c47cfcfdaf88757c
+work/access-om3.mom6.r.1969-01-01-00000_4.nc.0009:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_4.nc.0009
+  hashes:
+    binhash: 1aadfb44d08ad5e576094c1d3af94910
+    md5: aa7d1141926465bec75d0010d6a38736
+work/access-om3.mom6.r.1969-01-01-00000_4.nc.0010:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_4.nc.0010
+  hashes:
+    binhash: 8a139f19d231f2286f14c026b4c00d57
+    md5: dd067e0fe29d679d51303d73809e88a4
+work/access-om3.mom6.r.1969-01-01-00000_4.nc.0011:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_4.nc.0011
+  hashes:
+    binhash: e55a2da99b0c666d88a019cc93d1fe27
+    md5: a131bb3e9141abc128739053807bd827
+work/access-om3.mom6.r.1969-01-01-00000_4.nc.0012:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_4.nc.0012
+  hashes:
+    binhash: c82a3cfc01379d960a3720031563e6c5
+    md5: cc3077fb855e0b67f3c0aac5bc2240c0
+work/access-om3.mom6.r.1969-01-01-00000_4.nc.0013:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_4.nc.0013
+  hashes:
+    binhash: 96e7badff06c198c84bffac48a35c86e
+    md5: 127c1488652a6ff5f4c12b1ad1e4317e
+work/access-om3.mom6.r.1969-01-01-00000_4.nc.0014:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_4.nc.0014
+  hashes:
+    binhash: e93844a78cc8f60016b3e014fc97e8ca
+    md5: f705c7d4e4f59229d37d13242fbef168
+work/access-om3.mom6.r.1969-01-01-00000_4.nc.0015:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_4.nc.0015
+  hashes:
+    binhash: 07eef5c5018df923f7a74efcfcdad815
+    md5: f80338016d2c76eaa1da361b830d8354
+work/access-om3.mom6.r.1969-01-01-00000_4.nc.0016:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_4.nc.0016
+  hashes:
+    binhash: 25be046df77ec4950cad5ab29e31e8cc
+    md5: 223072da998b0af2ffef3548e6648297
+work/access-om3.mom6.r.1969-01-01-00000_4.nc.0017:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_4.nc.0017
+  hashes:
+    binhash: 8557bfb18fed843be166eb2c9c7b0a27
+    md5: 198ea19aa78069c8f1c26fb2127e3bc7
+work/access-om3.mom6.r.1969-01-01-00000_4.nc.0018:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_4.nc.0018
+  hashes:
+    binhash: fe926a745ffdeaec789110e1ca34f4c1
+    md5: 69e78163575dd5abb9a282f8f47c869d
+work/access-om3.mom6.r.1969-01-01-00000_4.nc.0019:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_4.nc.0019
+  hashes:
+    binhash: cbb32ab242422578d185b416e716529f
+    md5: a08348afe92da898c1e2605f4be083b6
+work/access-om3.mom6.r.1969-01-01-00000_4.nc.0020:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_4.nc.0020
+  hashes:
+    binhash: a36687a0b572b077c3603134629ee518
+    md5: 3f75b8986bc92bf6e29966397ba3f4ca
+work/access-om3.mom6.r.1969-01-01-00000_4.nc.0021:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_4.nc.0021
+  hashes:
+    binhash: f6ca57cac72f24a3ae50d5ce39de051a
+    md5: 9e7d0fd2a2975e48b152a71da0541d6e
+work/access-om3.mom6.r.1969-01-01-00000_4.nc.0022:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_4.nc.0022
+  hashes:
+    binhash: 602c09de1772a4c61a416bb42531dae0
+    md5: 4e215eefa9c6b3d0bd39e39ad95645b9
+work/access-om3.mom6.r.1969-01-01-00000_4.nc.0023:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_4.nc.0023
+  hashes:
+    binhash: 626e838c8aa94d5909b4dc9144aab636
+    md5: bfe0b6c5281cf2c177983da0cec89961
+work/access-om3.mom6.r.1969-01-01-00000_4.nc.0024:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_4.nc.0024
+  hashes:
+    binhash: 86e746690a1fcd7433bebedf6a2fbb10
+    md5: aa8fa6da4bb6cbe9f8a4cacd23fd0816
+work/access-om3.mom6.r.1969-01-01-00000_4.nc.0025:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_4.nc.0025
+  hashes:
+    binhash: 896fa612ca3e16ed3c0672c7ff45f0df
+    md5: 0ec4551f06c312e558ed9be46820f050
+work/access-om3.mom6.r.1969-01-01-00000_4.nc.0026:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_4.nc.0026
+  hashes:
+    binhash: 29ce97285fc26eb9c6537c85ba12818f
+    md5: ca6963c071443115306ff6f50daf5f24
+work/access-om3.mom6.r.1969-01-01-00000_4.nc.0027:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_4.nc.0027
+  hashes:
+    binhash: 41d93f29589910e03f0ebebcd151f7eb
+    md5: 0af1e0d8d9a0e4f41a422f171b1f7aa4
+work/access-om3.mom6.r.1969-01-01-00000_4.nc.0028:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_4.nc.0028
+  hashes:
+    binhash: 3a04812797228310b598a4bfa7bc0d11
+    md5: 7c85a82b13648f4da3c682aae836fcef
+work/access-om3.mom6.r.1969-01-01-00000_4.nc.0029:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_4.nc.0029
+  hashes:
+    binhash: f9e48a03c068346c79ab55c44a7078d0
+    md5: 072660d25ef84e67fc25af7311451aae
+work/access-om3.mom6.r.1969-01-01-00000_4.nc.0030:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_4.nc.0030
+  hashes:
+    binhash: 5af0118aa5b3b3043d712668351b5d62
+    md5: bea0bc8c6ddbe1d56143fadc6dffb117
+work/access-om3.mom6.r.1969-01-01-00000_4.nc.0031:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_4.nc.0031
+  hashes:
+    binhash: 1e7507c4ba1e517da67e7df7a0c33f4b
+    md5: ca6d7e949081b8e524473e886075c79f
+work/access-om3.mom6.r.1969-01-01-00000_4.nc.0032:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_4.nc.0032
+  hashes:
+    binhash: 2dc4e397acd35e23520e395b35dba9f3
+    md5: 908174073116389363a286754a75cb5e
+work/access-om3.mom6.r.1969-01-01-00000_4.nc.0033:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_4.nc.0033
+  hashes:
+    binhash: 357698e34f4ba165aebbdf821e3059f9
+    md5: e53d5fd38050651700dfddbaa916c693
+work/access-om3.mom6.r.1969-01-01-00000_4.nc.0034:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_4.nc.0034
+  hashes:
+    binhash: 0eaa7fb1546436f0ebe645e75df6dcd1
+    md5: e2d982978d5ff1cae41e21d58ec88479
+work/access-om3.mom6.r.1969-01-01-00000_4.nc.0035:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_4.nc.0035
+  hashes:
+    binhash: 5d2fdbe3747cd248c9debfd761d41edd
+    md5: 4743150585bb8346055fe8ce5d4d1677
+work/access-om3.mom6.r.1969-01-01-00000_4.nc.0037:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_4.nc.0037
+  hashes:
+    binhash: 3215ed9cb2fdf454df2f943d2516e661
+    md5: c49e7efe19560829f36e2b6bec94d8ba
+work/access-om3.mom6.r.1969-01-01-00000_4.nc.0038:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_4.nc.0038
+  hashes:
+    binhash: 61c42b71743bd3f9571c6ec38c8914ca
+    md5: 9247a0234bb39d51192d18fe7c0cbec5
+work/access-om3.mom6.r.1969-01-01-00000_4.nc.0039:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_4.nc.0039
+  hashes:
+    binhash: ff548a4a95491dfde60f28991d39eba1
+    md5: a85c598629f45d42df9713ed0a37d7bd
+work/access-om3.mom6.r.1969-01-01-00000_4.nc.0040:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_4.nc.0040
+  hashes:
+    binhash: 1f0a45841e96f226b0bf5ea8708551fe
+    md5: 973fc6c5c845edc335dcab6074133bb2
+work/access-om3.mom6.r.1969-01-01-00000_4.nc.0041:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_4.nc.0041
+  hashes:
+    binhash: 3a211cf7c7e36c2b9cb8a355baa8a529
+    md5: 9ee41d030d4108afbdc0225130155232
+work/access-om3.mom6.r.1969-01-01-00000_4.nc.0042:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_4.nc.0042
+  hashes:
+    binhash: 644dc74110933dfab46b3848825f54a4
+    md5: e549af6be3898c5fd5e01880a6846361
+work/access-om3.mom6.r.1969-01-01-00000_4.nc.0043:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_4.nc.0043
+  hashes:
+    binhash: 8a9cc09c64512f2558bbe3e081bf31b1
+    md5: 18e2c851253388f2bc36935c4726efec
+work/access-om3.mom6.r.1969-01-01-00000_4.nc.0044:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_4.nc.0044
+  hashes:
+    binhash: da3f2a07d61468877fc67da00bf5c563
+    md5: 57942325c760e346993256d47e9aef84
+work/access-om3.mom6.r.1969-01-01-00000_4.nc.0045:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_4.nc.0045
+  hashes:
+    binhash: b700d680ab71b7990a6bc2944660882b
+    md5: 7d169c9e63d46e5f699ac23261992aa8
+work/access-om3.mom6.r.1969-01-01-00000_4.nc.0046:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_4.nc.0046
+  hashes:
+    binhash: 352d736495c26261953622acdddd6e0d
+    md5: ee2734247c1c2b2b1fe60a4db60a46db
+work/access-om3.mom6.r.1969-01-01-00000_4.nc.0047:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_4.nc.0047
+  hashes:
+    binhash: 0c0294d3ce140c2c18f86bd890c90206
+    md5: 1d18a37908b5ea1de2d29495dc5200c2
+work/access-om3.mom6.r.1969-01-01-00000_4.nc.0048:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_4.nc.0048
+  hashes:
+    binhash: 766eeef2c1eb9d07e83a87981d21be99
+    md5: f413c8c9489e277bd4e9291b4f5697f0
+work/access-om3.mom6.r.1969-01-01-00000_4.nc.0050:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_4.nc.0050
+  hashes:
+    binhash: a52830e36693cbc5b21a283e5a48d8a6
+    md5: 2d47f0d46b2b016d9fcd11d0463d0d6c
+work/access-om3.mom6.r.1969-01-01-00000_4.nc.0051:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_4.nc.0051
+  hashes:
+    binhash: 00de50cefbe87ef5d88381e30a2d8af7
+    md5: 78bbaa646544ab6851b5cc9e9a2d4909
+work/access-om3.mom6.r.1969-01-01-00000_4.nc.0052:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_4.nc.0052
+  hashes:
+    binhash: 4ff700f03204126a4f5506797eb91d19
+    md5: ace1e144f6b85fa0a6992d57ef83cc1e
+work/access-om3.mom6.r.1969-01-01-00000_4.nc.0053:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_4.nc.0053
+  hashes:
+    binhash: 4269db0bc7f3e3804710b49390899b9d
+    md5: 78f0fe19fa6eb7ade260320dd6207286
+work/access-om3.mom6.r.1969-01-01-00000_5.nc.0000:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_5.nc.0000
+  hashes:
+    binhash: 7bf3f829f2a05be5fee6edbef3fea089
+    md5: f4e72482b320e373acd3129cf3a696b4
+work/access-om3.mom6.r.1969-01-01-00000_5.nc.0001:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_5.nc.0001
+  hashes:
+    binhash: 5f03a8fe3c749d0052cdee6b862b2a71
+    md5: 2b57642f26907d640f2c11c82a697de1
+work/access-om3.mom6.r.1969-01-01-00000_5.nc.0002:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_5.nc.0002
+  hashes:
+    binhash: c96c46090c5d1e01888452a825743311
+    md5: c58f03fae44d9074f1b64b09ff34d145
+work/access-om3.mom6.r.1969-01-01-00000_5.nc.0003:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_5.nc.0003
+  hashes:
+    binhash: 9433ecaebc5d717c6f421fb496af474b
+    md5: 026072b095bc04a63c53b4cfa40d2fe9
+work/access-om3.mom6.r.1969-01-01-00000_5.nc.0004:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_5.nc.0004
+  hashes:
+    binhash: a0a3bb4d1643d8d2b8aa24207805b8c6
+    md5: 9abeab24d772e9a64e69c03397ef8a83
+work/access-om3.mom6.r.1969-01-01-00000_5.nc.0005:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_5.nc.0005
+  hashes:
+    binhash: abaacfc432677ec560cc05c6ac9c3015
+    md5: 36616d8396168d0eaaca3bce5fbc5e0e
+work/access-om3.mom6.r.1969-01-01-00000_5.nc.0006:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_5.nc.0006
+  hashes:
+    binhash: 3b8a671249ff943564db6e5fb22fb8bf
+    md5: 91c1592fb82bdb7cb7468dde3ece17c6
+work/access-om3.mom6.r.1969-01-01-00000_5.nc.0007:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_5.nc.0007
+  hashes:
+    binhash: 6931ebf32a30bf87a56a2ae5e570e746
+    md5: fd0d69e6182ab5903376c25607a5eacd
+work/access-om3.mom6.r.1969-01-01-00000_5.nc.0008:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_5.nc.0008
+  hashes:
+    binhash: 8cde6481680ac42982484da23546be44
+    md5: f908b56f2406b9c7b73fbd07853b6790
+work/access-om3.mom6.r.1969-01-01-00000_5.nc.0009:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_5.nc.0009
+  hashes:
+    binhash: d74742f79be7e50e8c37137a91f0118a
+    md5: 11169ce8ef55e059eca2177273b5818f
+work/access-om3.mom6.r.1969-01-01-00000_5.nc.0010:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_5.nc.0010
+  hashes:
+    binhash: 6a22ecd005605d91ab251c7c4384172b
+    md5: 70f8748bdf59293896d437f6156d5c25
+work/access-om3.mom6.r.1969-01-01-00000_5.nc.0011:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_5.nc.0011
+  hashes:
+    binhash: 311b8af7c8068270341a010f8ed8f04b
+    md5: 3321aebcbd78dbdd3669d62f2cc2c0dc
+work/access-om3.mom6.r.1969-01-01-00000_5.nc.0012:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_5.nc.0012
+  hashes:
+    binhash: f2b614469489f8c333b55d4a7bedf1ab
+    md5: 84eb874588a7d0a2492557d64b8e98c9
+work/access-om3.mom6.r.1969-01-01-00000_5.nc.0013:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_5.nc.0013
+  hashes:
+    binhash: 5f11041ce04b0174ac04b75e614ae30d
+    md5: 5c742dd2974d503670c16f38b8c48a28
+work/access-om3.mom6.r.1969-01-01-00000_5.nc.0014:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_5.nc.0014
+  hashes:
+    binhash: 294f8a386616008698951815b42380dc
+    md5: e888a5c220f01e6f8f383acc630de509
+work/access-om3.mom6.r.1969-01-01-00000_5.nc.0015:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_5.nc.0015
+  hashes:
+    binhash: a33866e50f4d54a668bc4c761b0f2cdb
+    md5: bbcf24549f20160f611c5d87eeb4bbdf
+work/access-om3.mom6.r.1969-01-01-00000_5.nc.0016:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_5.nc.0016
+  hashes:
+    binhash: 94380f210f918458f9dd830060d7c805
+    md5: 3d037029a3c323ee0f4f2d172c9cbbe3
+work/access-om3.mom6.r.1969-01-01-00000_5.nc.0017:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_5.nc.0017
+  hashes:
+    binhash: 6f5704601d7523c625b94709e953075d
+    md5: 2ba8a6c9d14ad9ddefc6cbda2657548b
+work/access-om3.mom6.r.1969-01-01-00000_5.nc.0018:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_5.nc.0018
+  hashes:
+    binhash: a9e74b9289387d17eb4eec58f56b9d6e
+    md5: 2ef353435b12d3889659d3aa7380e1cf
+work/access-om3.mom6.r.1969-01-01-00000_5.nc.0019:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_5.nc.0019
+  hashes:
+    binhash: f923d7125f12bc274d77f99910dbad34
+    md5: b2ff94de186b7a2be0053827f397c915
+work/access-om3.mom6.r.1969-01-01-00000_5.nc.0020:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_5.nc.0020
+  hashes:
+    binhash: 1d012962f992762288c8814f555c3ee0
+    md5: eac0b0204270fdee7209c7917811ec6d
+work/access-om3.mom6.r.1969-01-01-00000_5.nc.0021:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_5.nc.0021
+  hashes:
+    binhash: d395a3759e249ee08f94435c10abda3d
+    md5: 92247da3a176508a098fdac6feccb265
+work/access-om3.mom6.r.1969-01-01-00000_5.nc.0022:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_5.nc.0022
+  hashes:
+    binhash: f59fa9352158abaeaf988fb689a8687a
+    md5: a0b6aad1c82032db7b353f19c874b91e
+work/access-om3.mom6.r.1969-01-01-00000_5.nc.0023:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_5.nc.0023
+  hashes:
+    binhash: 991b3f0d5346deec0622f7419ed14658
+    md5: 911e8bc6a1980b1670bd68308ab56088
+work/access-om3.mom6.r.1969-01-01-00000_5.nc.0024:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_5.nc.0024
+  hashes:
+    binhash: 7f3e2bb6bcf283cb8fa6f5b70cc64300
+    md5: ababf9673f0b8b40ca5b02b1fab6269d
+work/access-om3.mom6.r.1969-01-01-00000_5.nc.0025:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_5.nc.0025
+  hashes:
+    binhash: 38366b2fa902a77de03ed1d0e433deb4
+    md5: b26218fe5d19bb22d92c774740a8fff3
+work/access-om3.mom6.r.1969-01-01-00000_5.nc.0026:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_5.nc.0026
+  hashes:
+    binhash: 21b043ee5c086556e4c8ed9706bd5f75
+    md5: a4b2160c67507784d6ac04d9cd2f7671
+work/access-om3.mom6.r.1969-01-01-00000_5.nc.0027:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_5.nc.0027
+  hashes:
+    binhash: da8ebff732e41320d069c08aefee9e79
+    md5: f199a9e61ea9833371ef0f137b14dbe8
+work/access-om3.mom6.r.1969-01-01-00000_5.nc.0028:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_5.nc.0028
+  hashes:
+    binhash: 3c1e653283b606f4818c0f10d0b4b035
+    md5: 0176aca4d265eedb942c1eb0a7e4af16
+work/access-om3.mom6.r.1969-01-01-00000_5.nc.0029:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_5.nc.0029
+  hashes:
+    binhash: 54ce1227cf0c6f336da2f4dde52af117
+    md5: 577269e08022247976564a92f7f829b0
+work/access-om3.mom6.r.1969-01-01-00000_5.nc.0030:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_5.nc.0030
+  hashes:
+    binhash: dd3f2bf3f43abb1a5e5ae2bf106b8e8f
+    md5: 7582e41f97cea62aaff6ca2a02ba95d5
+work/access-om3.mom6.r.1969-01-01-00000_5.nc.0031:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_5.nc.0031
+  hashes:
+    binhash: aaf95a88c5a56a4637164c3dd1e5b409
+    md5: ee49cd0679672cc2b491429b62df6892
+work/access-om3.mom6.r.1969-01-01-00000_5.nc.0032:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_5.nc.0032
+  hashes:
+    binhash: 1ef8131d398f049ecf34078ce4aee0b9
+    md5: d0f6c4f19936d7edd06f3eca50804af8
+work/access-om3.mom6.r.1969-01-01-00000_5.nc.0033:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_5.nc.0033
+  hashes:
+    binhash: bc2249e5e5857d8f6ec21666e6187eab
+    md5: debc5e6ffa1433125d45c7892b1d9bf9
+work/access-om3.mom6.r.1969-01-01-00000_5.nc.0034:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_5.nc.0034
+  hashes:
+    binhash: d87426d69e6977f1d30b62707c7e652a
+    md5: 31a46ded9ec448f744fc036ed02403dc
+work/access-om3.mom6.r.1969-01-01-00000_5.nc.0035:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_5.nc.0035
+  hashes:
+    binhash: eff5c863faed230287ad17867990ab90
+    md5: 50a9b140b6c01d81a3ea3d643a201f39
+work/access-om3.mom6.r.1969-01-01-00000_5.nc.0037:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_5.nc.0037
+  hashes:
+    binhash: aa56922f89e6363636ecb6ebb0d64c9f
+    md5: e787e32b8573cc0d5ff38839ecc17143
+work/access-om3.mom6.r.1969-01-01-00000_5.nc.0038:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_5.nc.0038
+  hashes:
+    binhash: c5e8db7b8e8a0dcf2b9ff3c218ce795c
+    md5: 9193751633b0530c78fe135238d137f0
+work/access-om3.mom6.r.1969-01-01-00000_5.nc.0039:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_5.nc.0039
+  hashes:
+    binhash: a2ae9f03a5291370b39a9c416f927a89
+    md5: 92c5df026e22925b058de2da86c48027
+work/access-om3.mom6.r.1969-01-01-00000_5.nc.0040:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_5.nc.0040
+  hashes:
+    binhash: 975ae37fcbab40578dcc7e15191edcf9
+    md5: 8bfd9c72c8996c682270abbf11d3bed1
+work/access-om3.mom6.r.1969-01-01-00000_5.nc.0041:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_5.nc.0041
+  hashes:
+    binhash: 3f5423af5c187fc167c2f89411959198
+    md5: 505887db8193aac6d69ac75300f4c471
+work/access-om3.mom6.r.1969-01-01-00000_5.nc.0042:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_5.nc.0042
+  hashes:
+    binhash: 7db082e5d4e3001b16c19a5acf3aedf5
+    md5: 0ed87b4b9ff413f659bfc9f47d5ad5ec
+work/access-om3.mom6.r.1969-01-01-00000_5.nc.0043:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_5.nc.0043
+  hashes:
+    binhash: b1510d0c40e7194d0ee179b03a70044a
+    md5: 8182fa566f8922976a49410332ddd0d7
+work/access-om3.mom6.r.1969-01-01-00000_5.nc.0044:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_5.nc.0044
+  hashes:
+    binhash: 8e4612dabeca987236908b2b742f656b
+    md5: 77645f1b0ac6fc48ca2cf06000ecc0be
+work/access-om3.mom6.r.1969-01-01-00000_5.nc.0045:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_5.nc.0045
+  hashes:
+    binhash: 82ba324092d6326a6625ee439604a1a6
+    md5: e3dd8a9026516f1710b29753adb03141
+work/access-om3.mom6.r.1969-01-01-00000_5.nc.0046:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_5.nc.0046
+  hashes:
+    binhash: fcb6c4deb7310b6ca43cd82da8a85f0a
+    md5: 2826f160c0cceb3a8ceb99e01d1c896b
+work/access-om3.mom6.r.1969-01-01-00000_5.nc.0047:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_5.nc.0047
+  hashes:
+    binhash: bf8c51950f5ca6fc7b767a7a07c8b8b9
+    md5: 4cbec931e4852044263329fb775c55ad
+work/access-om3.mom6.r.1969-01-01-00000_5.nc.0048:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_5.nc.0048
+  hashes:
+    binhash: 53e674f1ac969b8010ba731a9e840792
+    md5: fd65173a55ce4ce9906d19965b3fa92f
+work/access-om3.mom6.r.1969-01-01-00000_5.nc.0050:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_5.nc.0050
+  hashes:
+    binhash: ba24d2a70eb818bc1e5d1153ec4b862d
+    md5: 736249f173c46364281161ebf6b6b6b0
+work/access-om3.mom6.r.1969-01-01-00000_5.nc.0051:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_5.nc.0051
+  hashes:
+    binhash: 8b22fe3fa46ee90520192b813a921362
+    md5: 10f89d06aa61180c2af644c689591013
+work/access-om3.mom6.r.1969-01-01-00000_5.nc.0052:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_5.nc.0052
+  hashes:
+    binhash: aed146b29b710ce53508831cc2cbf17f
+    md5: b17882cc3613d651f3e5dd63cd65564d
+work/access-om3.mom6.r.1969-01-01-00000_5.nc.0053:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_5.nc.0053
+  hashes:
+    binhash: 113c7b57590c7745e8b0b7e915ae093c
+    md5: c20e364a98548bf70242130438982dbc
+work/access-om3.mom6.r.1969-01-01-00000_6.nc.0000:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_6.nc.0000
+  hashes:
+    binhash: a6272e1c03e333c167d48daec44a7e64
+    md5: 9d8d124d3fee68ce65f422d3f45d2b15
+work/access-om3.mom6.r.1969-01-01-00000_6.nc.0001:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_6.nc.0001
+  hashes:
+    binhash: cfd0f09d0d907b0c8b249471a893a2ef
+    md5: f5551dbe5f9f143261ad46fd6fe5c081
+work/access-om3.mom6.r.1969-01-01-00000_6.nc.0002:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_6.nc.0002
+  hashes:
+    binhash: 1ad7481f66c1fb2f1f6f7fab57cd03ae
+    md5: 8231cb3bf309a658196b61bd874ea7ff
+work/access-om3.mom6.r.1969-01-01-00000_6.nc.0003:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_6.nc.0003
+  hashes:
+    binhash: ed1d90007b43f121fe38bbd3b007439f
+    md5: 2399c384c18ff59b457a1f9d188e7836
+work/access-om3.mom6.r.1969-01-01-00000_6.nc.0004:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_6.nc.0004
+  hashes:
+    binhash: 486fc953f53334b01bdec4c08b7c986b
+    md5: 945ddd79ae603794b7ab2c2c5c51c61c
+work/access-om3.mom6.r.1969-01-01-00000_6.nc.0005:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_6.nc.0005
+  hashes:
+    binhash: 87781daf82d0172761c6f4c63debbb22
+    md5: f1148f2fe8bfd5db1340853cd8fc6e38
+work/access-om3.mom6.r.1969-01-01-00000_6.nc.0006:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_6.nc.0006
+  hashes:
+    binhash: 7663658371cf9e2bdb239b7385fef1bd
+    md5: 2fa8e61b8f12d77667535cb7ec9fde5d
+work/access-om3.mom6.r.1969-01-01-00000_6.nc.0007:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_6.nc.0007
+  hashes:
+    binhash: ce5e89f8dd02d7d2d29b69b1b47593ff
+    md5: 738d08bd82ca48c5ba10a7c4ec05658b
+work/access-om3.mom6.r.1969-01-01-00000_6.nc.0008:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_6.nc.0008
+  hashes:
+    binhash: a972f811ff90c7b05fb795a23f2b4405
+    md5: 33ccd7ce6731c5eb9770c03019b2131d
+work/access-om3.mom6.r.1969-01-01-00000_6.nc.0009:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_6.nc.0009
+  hashes:
+    binhash: 442ff98a1be5f8a44490ba7fd85c2f6e
+    md5: e84d43de040dee138e4b9febe4f18425
+work/access-om3.mom6.r.1969-01-01-00000_6.nc.0010:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_6.nc.0010
+  hashes:
+    binhash: ec28cba6b134dc9a25d24c3f7578c37b
+    md5: 5aa98ad83ce497e81700c9da4f205ee1
+work/access-om3.mom6.r.1969-01-01-00000_6.nc.0011:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_6.nc.0011
+  hashes:
+    binhash: b74784f88734373a4d63e49f304c1d5f
+    md5: 8dd1eb88059e6428a13e8d81827d4841
+work/access-om3.mom6.r.1969-01-01-00000_6.nc.0012:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_6.nc.0012
+  hashes:
+    binhash: 99bcae2900c82f02fe8ac11161909f18
+    md5: cd44328ae762a0b0664896bdd61ca64b
+work/access-om3.mom6.r.1969-01-01-00000_6.nc.0013:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_6.nc.0013
+  hashes:
+    binhash: de8962a5a1c60dc9291d899bed63d515
+    md5: 2b4a4d7134c9721fc09279173b6f9a30
+work/access-om3.mom6.r.1969-01-01-00000_6.nc.0014:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_6.nc.0014
+  hashes:
+    binhash: 58708455cb9ac53f683719bf8c7b168c
+    md5: a4da0e565d7ebd2380cb2890bde9a25f
+work/access-om3.mom6.r.1969-01-01-00000_6.nc.0015:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_6.nc.0015
+  hashes:
+    binhash: 44f14d230643f61c03d0482ed675b69e
+    md5: 53b4db2f93b322845d5e40a82495960a
+work/access-om3.mom6.r.1969-01-01-00000_6.nc.0016:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_6.nc.0016
+  hashes:
+    binhash: 3fd2a8bb09b25ef2765fb9fc14e1ddfc
+    md5: ac31dea804936da093348b3da938e0fb
+work/access-om3.mom6.r.1969-01-01-00000_6.nc.0017:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_6.nc.0017
+  hashes:
+    binhash: b69f195e86116ce561382d7e451cc757
+    md5: 27316c86b9b3ffa09b05830a7fb35d87
+work/access-om3.mom6.r.1969-01-01-00000_6.nc.0018:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_6.nc.0018
+  hashes:
+    binhash: d9f23a4a6bc41414efa72088a0e7554a
+    md5: eae2a27d44cd8063a12667c8ffce4694
+work/access-om3.mom6.r.1969-01-01-00000_6.nc.0019:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_6.nc.0019
+  hashes:
+    binhash: 90a3e1c0de12e8e9687111053b9007e2
+    md5: b239edff75620fd8f1462348e5126550
+work/access-om3.mom6.r.1969-01-01-00000_6.nc.0020:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_6.nc.0020
+  hashes:
+    binhash: dec3791a241f69c540f614368d594155
+    md5: d54ba0d7fe9a2e622ba6af57d02c72e1
+work/access-om3.mom6.r.1969-01-01-00000_6.nc.0021:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_6.nc.0021
+  hashes:
+    binhash: 90c1194975f311b84e6dde08ce4e4583
+    md5: ffc1b38a8d2c2526e4ebb6e91a7836fe
+work/access-om3.mom6.r.1969-01-01-00000_6.nc.0022:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_6.nc.0022
+  hashes:
+    binhash: 6014d4e648655a54d82a27e7be581d7e
+    md5: fce8778385f9d1d195e46dd16746f3de
+work/access-om3.mom6.r.1969-01-01-00000_6.nc.0023:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_6.nc.0023
+  hashes:
+    binhash: 4bac9a2fbac30925507af5ebdd4b523a
+    md5: 55869514a9829b1df392a1eb61882a37
+work/access-om3.mom6.r.1969-01-01-00000_6.nc.0024:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_6.nc.0024
+  hashes:
+    binhash: 31b8bc32511a344847a7e7c5dfe21651
+    md5: a89940bcb751b23404e50548899c92ad
+work/access-om3.mom6.r.1969-01-01-00000_6.nc.0025:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_6.nc.0025
+  hashes:
+    binhash: 7a201350490a88afde26026af51a0272
+    md5: 05a93d4aeaa860a7c6268b7e050ec7e7
+work/access-om3.mom6.r.1969-01-01-00000_6.nc.0026:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_6.nc.0026
+  hashes:
+    binhash: 2286eb739dfc4d993a8cb50a01ca2d00
+    md5: 9eada21faf6e63c968633a236c5e9a20
+work/access-om3.mom6.r.1969-01-01-00000_6.nc.0027:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_6.nc.0027
+  hashes:
+    binhash: f03d79828877d9bc60a9e1e3d9713e54
+    md5: eea1b277e97520d97a976c4f4b334891
+work/access-om3.mom6.r.1969-01-01-00000_6.nc.0028:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_6.nc.0028
+  hashes:
+    binhash: efdc2f6232d34cfac74e159105f37005
+    md5: 129f47b0d408cd887ae4513feaab16db
+work/access-om3.mom6.r.1969-01-01-00000_6.nc.0029:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_6.nc.0029
+  hashes:
+    binhash: 1f2a46cdec0dec12f51389e68ccecc14
+    md5: aac45635527476755b4b4b895f766d40
+work/access-om3.mom6.r.1969-01-01-00000_6.nc.0030:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_6.nc.0030
+  hashes:
+    binhash: e84cc3bc720e90f12a7cd709b7478527
+    md5: b91012867a2d515fbbac136f90379c99
+work/access-om3.mom6.r.1969-01-01-00000_6.nc.0031:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_6.nc.0031
+  hashes:
+    binhash: 26da3c19c19587270d746c0f6e78fa4f
+    md5: 1493ab4913c6d8e9cdcedf1e4ab1994d
+work/access-om3.mom6.r.1969-01-01-00000_6.nc.0032:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_6.nc.0032
+  hashes:
+    binhash: 3c1b6c63bc664c77aa6fdc453871856c
+    md5: 41f5764a5e852611c1627e606ec68522
+work/access-om3.mom6.r.1969-01-01-00000_6.nc.0033:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_6.nc.0033
+  hashes:
+    binhash: 8224bae9e72727d1bee5a9c56cee6ded
+    md5: fd59c5a7e068790e45358cd79a9e3636
+work/access-om3.mom6.r.1969-01-01-00000_6.nc.0034:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_6.nc.0034
+  hashes:
+    binhash: bda2dd268ea2001eb5d16d7fefcdddd5
+    md5: f9a747fa2a78917872cdc02aaa5c7e6a
+work/access-om3.mom6.r.1969-01-01-00000_6.nc.0035:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_6.nc.0035
+  hashes:
+    binhash: 543271102c1d8de11948ee7851262f30
+    md5: 3f66b2f2c5fd010c431d682aa2ed2eb1
+work/access-om3.mom6.r.1969-01-01-00000_6.nc.0037:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_6.nc.0037
+  hashes:
+    binhash: 262bfc570c884b401b073f722fed6e8c
+    md5: c94c491f75c51c10ffcfc8476c4234e9
+work/access-om3.mom6.r.1969-01-01-00000_6.nc.0038:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_6.nc.0038
+  hashes:
+    binhash: 17c869720bb8a4b75a91de84dc966917
+    md5: a3f5392e4955b55cb147d167366c4a03
+work/access-om3.mom6.r.1969-01-01-00000_6.nc.0039:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_6.nc.0039
+  hashes:
+    binhash: 97d7c2a600f10a80258c3690327c4e4b
+    md5: 3c3dc6341fa4563ecfff8bfa8138c73b
+work/access-om3.mom6.r.1969-01-01-00000_6.nc.0040:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_6.nc.0040
+  hashes:
+    binhash: 2a36787edce7f83e38b4764bd056a2fb
+    md5: e79c4e8c13ff05507507be53d2ad13f2
+work/access-om3.mom6.r.1969-01-01-00000_6.nc.0041:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_6.nc.0041
+  hashes:
+    binhash: bdb0981887e60cf2a65673bd43be123c
+    md5: 0dbf1a6c654534dbe73becbf085c7f90
+work/access-om3.mom6.r.1969-01-01-00000_6.nc.0042:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_6.nc.0042
+  hashes:
+    binhash: 307e49be387e701cb44c95ae6eb70710
+    md5: f912f4c610b66e34b642ac5b72186367
+work/access-om3.mom6.r.1969-01-01-00000_6.nc.0043:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_6.nc.0043
+  hashes:
+    binhash: c10198715993acbd182f304b0ce56b98
+    md5: a395ce074b89a3e5cabdc81861cf99e0
+work/access-om3.mom6.r.1969-01-01-00000_6.nc.0044:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_6.nc.0044
+  hashes:
+    binhash: 5ee2353d4d9868c243c6ce32f5af5307
+    md5: f43a6598e348de51435bfd5da218bf98
+work/access-om3.mom6.r.1969-01-01-00000_6.nc.0045:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_6.nc.0045
+  hashes:
+    binhash: 1c69266e0a78f80dc3a3d6563506c2ef
+    md5: ab4dd4f37cad026ea0e99d17e6ed4186
+work/access-om3.mom6.r.1969-01-01-00000_6.nc.0046:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_6.nc.0046
+  hashes:
+    binhash: 61194419a5ab74941ba87f6be7ae3a27
+    md5: 3a14bed6759783cf23f704952ffe8d04
+work/access-om3.mom6.r.1969-01-01-00000_6.nc.0047:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_6.nc.0047
+  hashes:
+    binhash: a9ac42789851c098f0affb8e4a40a1cd
+    md5: 2d3515990a4c98505117fa8d2bc09a49
+work/access-om3.mom6.r.1969-01-01-00000_6.nc.0048:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_6.nc.0048
+  hashes:
+    binhash: d3b6fae89375fecc698347003a87761a
+    md5: 2dec82cf8b0b235ddb744fcd78a314fb
+work/access-om3.mom6.r.1969-01-01-00000_6.nc.0050:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_6.nc.0050
+  hashes:
+    binhash: 9969430e843dcef0f081ba777783f158
+    md5: dd87adff7adb06681f949a82fe821992
+work/access-om3.mom6.r.1969-01-01-00000_6.nc.0051:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_6.nc.0051
+  hashes:
+    binhash: ef92ec3542bdefda074ffeb78a9bcd1c
+    md5: c2969ed61bd6872a804a34cc24242a7c
+work/access-om3.mom6.r.1969-01-01-00000_6.nc.0052:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_6.nc.0052
+  hashes:
+    binhash: 677a926da4252f377e97fb57529c793e
+    md5: fc693d5ea918c5887e891387a57ec97f
+work/access-om3.mom6.r.1969-01-01-00000_6.nc.0053:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_6.nc.0053
+  hashes:
+    binhash: 8dc69c15bfa4b1c8a638b1a5ff631f6e
+    md5: 9f9c6d4599543201424540e155c53688
+work/access-om3.mom6.r.1969-01-01-00000_7.nc.0000:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_7.nc.0000
+  hashes:
+    binhash: 24bcda64f0ddb4cae5910df944cbeb48
+    md5: 7a59d3466b311f768835775ac2e03400
+work/access-om3.mom6.r.1969-01-01-00000_7.nc.0001:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_7.nc.0001
+  hashes:
+    binhash: f0f7b04379be5a9fca600c1baa06d1a7
+    md5: 06126c8e4bbb8a43cc484ecebecff66b
+work/access-om3.mom6.r.1969-01-01-00000_7.nc.0002:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_7.nc.0002
+  hashes:
+    binhash: f7f8f45baea715ed5f7be0b9b14ea6f3
+    md5: 0f85aa4734c7d1c9d40b4f16486205e9
+work/access-om3.mom6.r.1969-01-01-00000_7.nc.0003:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_7.nc.0003
+  hashes:
+    binhash: 40b6a04a3d2235f2a1ee47cdd2621776
+    md5: 824110c46a487a70d45b8291d51d57c1
+work/access-om3.mom6.r.1969-01-01-00000_7.nc.0004:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_7.nc.0004
+  hashes:
+    binhash: 5971ddaf0804ab22eb8925a83ffe3956
+    md5: 9061e6265bb80156e83f9aea684be281
+work/access-om3.mom6.r.1969-01-01-00000_7.nc.0005:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_7.nc.0005
+  hashes:
+    binhash: 1aa7cba20d217327436eda488a66341e
+    md5: e88de4ad2772f554d9bdda8f9582e4e5
+work/access-om3.mom6.r.1969-01-01-00000_7.nc.0006:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_7.nc.0006
+  hashes:
+    binhash: 535f92df19884c1e27bcac7cab961f93
+    md5: ab45fd0303c32e7fe608a2a56d5d8ed9
+work/access-om3.mom6.r.1969-01-01-00000_7.nc.0007:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_7.nc.0007
+  hashes:
+    binhash: 84da219670dcddd5cff325fb26994188
+    md5: 8cfa89dee8dd0b586719f01f51e68a55
+work/access-om3.mom6.r.1969-01-01-00000_7.nc.0008:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_7.nc.0008
+  hashes:
+    binhash: 10a8996063942dc9dca6e47eec8f75bb
+    md5: 149c5567508561bcd4dc8b116348ebda
+work/access-om3.mom6.r.1969-01-01-00000_7.nc.0009:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_7.nc.0009
+  hashes:
+    binhash: ac56279a8ba93789fec7f8825f01d70b
+    md5: b783b2f2fe01ef04258294d839051b49
+work/access-om3.mom6.r.1969-01-01-00000_7.nc.0010:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_7.nc.0010
+  hashes:
+    binhash: deeeadbe2f644645570bb520f69cf8b3
+    md5: 7c8c2ac65735f0435ee9857fc709c611
+work/access-om3.mom6.r.1969-01-01-00000_7.nc.0011:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_7.nc.0011
+  hashes:
+    binhash: d3c0a0b35bc62e42833e86781f409da3
+    md5: 21c9fa4d68b27281857c1897dcb79845
+work/access-om3.mom6.r.1969-01-01-00000_7.nc.0012:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_7.nc.0012
+  hashes:
+    binhash: c6fe17087a73a5ab88ae799a599abb4b
+    md5: 95d3697f06e729459938fa44349439d6
+work/access-om3.mom6.r.1969-01-01-00000_7.nc.0013:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_7.nc.0013
+  hashes:
+    binhash: 36cf9b0fe298f804ee4ab3b50bfe8062
+    md5: b4a677b628d2fe78f3079e046d61f2b4
+work/access-om3.mom6.r.1969-01-01-00000_7.nc.0014:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_7.nc.0014
+  hashes:
+    binhash: e81d19234b99ac9960098fadefa51527
+    md5: 73303ac5bc4c714428f93bfee8fd7271
+work/access-om3.mom6.r.1969-01-01-00000_7.nc.0015:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_7.nc.0015
+  hashes:
+    binhash: 57a7fd79e7ce68c9e969a1f222f4107c
+    md5: e7f753c029d4fbe9353710cdd8391b20
+work/access-om3.mom6.r.1969-01-01-00000_7.nc.0016:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_7.nc.0016
+  hashes:
+    binhash: 73d8e6a3a8309c65c46a6d442c021e4d
+    md5: ca557f85d3d726d2aaea77747f92bf90
+work/access-om3.mom6.r.1969-01-01-00000_7.nc.0017:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_7.nc.0017
+  hashes:
+    binhash: 1c599cafee4b3ef8a2739653dcc3bcfe
+    md5: a08322fd4ae3223adb5aeba012f9b905
+work/access-om3.mom6.r.1969-01-01-00000_7.nc.0018:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_7.nc.0018
+  hashes:
+    binhash: 1a6cbceda14e99aca71c265f4e640443
+    md5: dc49d73da814179da20faf53a132adfd
+work/access-om3.mom6.r.1969-01-01-00000_7.nc.0019:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_7.nc.0019
+  hashes:
+    binhash: 36f194071c9eb64fe39b1b0458cfd27e
+    md5: ca2569370807859489e27f2c24aabdf6
+work/access-om3.mom6.r.1969-01-01-00000_7.nc.0020:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_7.nc.0020
+  hashes:
+    binhash: fc3dcc40c2867731cc8d1fddd9501ed1
+    md5: 3c8e920a770cc1502f74683aae54739b
+work/access-om3.mom6.r.1969-01-01-00000_7.nc.0021:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_7.nc.0021
+  hashes:
+    binhash: a5db2b096595e9c1fe2f0765a888525a
+    md5: d271e819a6a82f37c9f006f4d0e55ef6
+work/access-om3.mom6.r.1969-01-01-00000_7.nc.0022:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_7.nc.0022
+  hashes:
+    binhash: 8f0bb183a84f07a655dde8a5a76c9cb9
+    md5: 710b471503deef946f6110f3188907ab
+work/access-om3.mom6.r.1969-01-01-00000_7.nc.0023:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_7.nc.0023
+  hashes:
+    binhash: 42eae0c451efa5f03c27151d75e32e61
+    md5: 7ce029f14538912f316a3224fcfbadca
+work/access-om3.mom6.r.1969-01-01-00000_7.nc.0024:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_7.nc.0024
+  hashes:
+    binhash: 103556825e2623cb5d856b1049b424ac
+    md5: db243e8962823f771ab43145b7620b84
+work/access-om3.mom6.r.1969-01-01-00000_7.nc.0025:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_7.nc.0025
+  hashes:
+    binhash: 7c4d064b35cc01f062b0983d7dbdbce7
+    md5: ac1ee01bc931acf5bf69af212d42ede0
+work/access-om3.mom6.r.1969-01-01-00000_7.nc.0026:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_7.nc.0026
+  hashes:
+    binhash: bb33f3c54711279832e4b97d9bdeedf8
+    md5: dab56b18b8b50e004ddc749a2464555d
+work/access-om3.mom6.r.1969-01-01-00000_7.nc.0027:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_7.nc.0027
+  hashes:
+    binhash: 7351eca33915eed72183b40602fbd1b1
+    md5: 4ee6ee688dbbc88dc5089f357df893f8
+work/access-om3.mom6.r.1969-01-01-00000_7.nc.0028:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_7.nc.0028
+  hashes:
+    binhash: 9792dc659fdf9cf7616bca3caa59427d
+    md5: db1173d415e9b5cb42cf6bfb87dc1174
+work/access-om3.mom6.r.1969-01-01-00000_7.nc.0029:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_7.nc.0029
+  hashes:
+    binhash: ecb9c47abb344443a828845a7ffe5e09
+    md5: 758f7b1589fdee876b3076e130b59703
+work/access-om3.mom6.r.1969-01-01-00000_7.nc.0030:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_7.nc.0030
+  hashes:
+    binhash: 2c536ada39de91307181d7694a97bb70
+    md5: 3426ce6ee638f516802c9c6124a70752
+work/access-om3.mom6.r.1969-01-01-00000_7.nc.0031:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_7.nc.0031
+  hashes:
+    binhash: ba5bc6750e3a0a43be3d10d945fba554
+    md5: 2a8633a338f0815d200472ff5d205db0
+work/access-om3.mom6.r.1969-01-01-00000_7.nc.0032:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_7.nc.0032
+  hashes:
+    binhash: c84dbb77e77a80d0c416247ee2b1a4a5
+    md5: 939794628c14d2d62a616db194583ee5
+work/access-om3.mom6.r.1969-01-01-00000_7.nc.0033:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_7.nc.0033
+  hashes:
+    binhash: 4fdc4321c702976c4b3a014376b33594
+    md5: 2d0aeb5d80cd856507453ff2b2957471
+work/access-om3.mom6.r.1969-01-01-00000_7.nc.0034:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_7.nc.0034
+  hashes:
+    binhash: 2d80ee4ca3e5ce1659aea51b1af5ce44
+    md5: 3c34847a3475e8a079708cd8cc4ad586
+work/access-om3.mom6.r.1969-01-01-00000_7.nc.0035:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_7.nc.0035
+  hashes:
+    binhash: a9fbb37a2347ddc0adae8cb64e458c7d
+    md5: 14396a4a1a3baeb307262672d49f6ab8
+work/access-om3.mom6.r.1969-01-01-00000_7.nc.0037:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_7.nc.0037
+  hashes:
+    binhash: 3570380b8051d64fb5e23c292b32a012
+    md5: 1544bfc2cc06816ed68c5473b7764eab
+work/access-om3.mom6.r.1969-01-01-00000_7.nc.0038:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_7.nc.0038
+  hashes:
+    binhash: d94f2cd58941f219e17d1a715a95d1c3
+    md5: 9643a57428f816a5271a16c4ec0e8ef2
+work/access-om3.mom6.r.1969-01-01-00000_7.nc.0039:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_7.nc.0039
+  hashes:
+    binhash: 9433b5294366613cf12887cb2696d9a8
+    md5: 736c2b431d6f522adb59b25297dbcc3b
+work/access-om3.mom6.r.1969-01-01-00000_7.nc.0040:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_7.nc.0040
+  hashes:
+    binhash: 0ab278efdc6e99c631ea6f8e394210e1
+    md5: 7c8decb96b9c4978ba8071bf4c438d1d
+work/access-om3.mom6.r.1969-01-01-00000_7.nc.0041:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_7.nc.0041
+  hashes:
+    binhash: bf43a29deead7c0884adb3e112eebcf9
+    md5: 3396c8d318b5541e57ac3ecc6af85246
+work/access-om3.mom6.r.1969-01-01-00000_7.nc.0042:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_7.nc.0042
+  hashes:
+    binhash: 1aa2be8440463b2efb1ba2fb8baedcda
+    md5: 78f003d126fda82783683cded96b710d
+work/access-om3.mom6.r.1969-01-01-00000_7.nc.0043:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_7.nc.0043
+  hashes:
+    binhash: f740dfe35efb76189bdff16378953535
+    md5: 862950ed5131f18b3b3d15327608a4ac
+work/access-om3.mom6.r.1969-01-01-00000_7.nc.0044:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_7.nc.0044
+  hashes:
+    binhash: 4f0cd985e4a456932d3b6abac69e8c67
+    md5: b63d82ce63c32a850b25fd388425c5cd
+work/access-om3.mom6.r.1969-01-01-00000_7.nc.0045:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_7.nc.0045
+  hashes:
+    binhash: 75a890e15037d13ff351fbd3d26a8e21
+    md5: c5a09687a684697de937ffb345a9808c
+work/access-om3.mom6.r.1969-01-01-00000_7.nc.0046:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_7.nc.0046
+  hashes:
+    binhash: be58a68718407be0a8da86d79486f381
+    md5: 29e31382355f0efd77ca5a385912d7a5
+work/access-om3.mom6.r.1969-01-01-00000_7.nc.0047:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_7.nc.0047
+  hashes:
+    binhash: 8c85e2452ab6f5af4b14c20b24658950
+    md5: 17178194c1b73fc73c71497ea848a533
+work/access-om3.mom6.r.1969-01-01-00000_7.nc.0048:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_7.nc.0048
+  hashes:
+    binhash: 16c8545598d08a72766dfd8a44110155
+    md5: 24f834aaca137f73328499d02d597505
+work/access-om3.mom6.r.1969-01-01-00000_7.nc.0050:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_7.nc.0050
+  hashes:
+    binhash: d6efde842906fb1630659bd6aeabb239
+    md5: 9a2f082c4994cb5d61901a39d9455b18
+work/access-om3.mom6.r.1969-01-01-00000_7.nc.0051:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_7.nc.0051
+  hashes:
+    binhash: b5be7a8972bcefba6dad6c18d2374a05
+    md5: 2c29e6ac27635bcc993a0b77d036b9ca
+work/access-om3.mom6.r.1969-01-01-00000_7.nc.0052:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_7.nc.0052
+  hashes:
+    binhash: 56e038515084f37462113a02181fa2e5
+    md5: 07dd8655e64e999a543e97c9c5f2fd02
+work/access-om3.mom6.r.1969-01-01-00000_7.nc.0053:
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/access-om3.mom6.r.1969-01-01-00000_7.nc.0053
+  hashes:
+    binhash: 174ff484499d8e9552b4a2c3cbe5204a
+    md5: ae0e1400e69864f5a9b6313c2ca064a3
 work/ocean_wombatlite_airsea_flux.res.nc.0000:
-  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test5-38867fcd/restart009/ocean_wombatlite_airsea_flux.res.nc.0000
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/ocean_wombatlite_airsea_flux.res.nc.0000
   hashes:
-    binhash: ca11b0df63bc45bc7539a56b50817450
-    md5: f1b911e0bd9547a49ecd221c7f7c779a
+    binhash: a2efa82b4b5c419fb8e4a7481608ca9a
+    md5: bb8f8708fdf1ce33d29272c073ee394f
 work/ocean_wombatlite_airsea_flux.res.nc.0001:
-  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test5-38867fcd/restart009/ocean_wombatlite_airsea_flux.res.nc.0001
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/ocean_wombatlite_airsea_flux.res.nc.0001
   hashes:
-    binhash: 8705508b5cf4d29b6ddb150e6270f4a3
-    md5: eb0582aac5dd5c77ea449921c1d1cfb0
+    binhash: 427ea60b61e5b575155e12b1598f0cab
+    md5: baeeccdf1e6b43767f5639ddf65f5611
 work/ocean_wombatlite_airsea_flux.res.nc.0002:
-  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test5-38867fcd/restart009/ocean_wombatlite_airsea_flux.res.nc.0002
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/ocean_wombatlite_airsea_flux.res.nc.0002
   hashes:
-    binhash: 68a6dd602ef4d5a224a63ea9369e256c
-    md5: fab2061f6b0ca404e09cb96ccfecec53
+    binhash: 2c29351ef6c1468ccca1677cae2eb08e
+    md5: 1e3f5d571b7bc7927fcc538bac94f843
 work/ocean_wombatlite_airsea_flux.res.nc.0003:
-  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test5-38867fcd/restart009/ocean_wombatlite_airsea_flux.res.nc.0003
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/ocean_wombatlite_airsea_flux.res.nc.0003
   hashes:
-    binhash: f6b38f59e05467937f9c6d50d9fa3e85
-    md5: 25a4229039408ad634d07e36f69283ab
+    binhash: dd36f6bffae1f5b4e0c91ae2231bed59
+    md5: 2b85f4b7784be549453f5e8bb7c0ffc2
 work/ocean_wombatlite_airsea_flux.res.nc.0004:
-  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test5-38867fcd/restart009/ocean_wombatlite_airsea_flux.res.nc.0004
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/ocean_wombatlite_airsea_flux.res.nc.0004
   hashes:
-    binhash: 8cd32c39428c5247202b7cc8e3b2a445
-    md5: 881b6bf5a2fdf61054b8048e42b7b6dc
+    binhash: a30a9edd364f028340976b676bc63f40
+    md5: 2d8fc92a0a3277b2aaeccb9a84643bfa
 work/ocean_wombatlite_airsea_flux.res.nc.0005:
-  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test5-38867fcd/restart009/ocean_wombatlite_airsea_flux.res.nc.0005
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/ocean_wombatlite_airsea_flux.res.nc.0005
   hashes:
-    binhash: eaa5ea4f191ca76f37b900d3ffc1d9e0
-    md5: bc25511e29073f02d62a2fcb379aa4c1
+    binhash: bb85c7fdbc5445e509d026a4b9a07792
+    md5: 33a0fc11026a8e5f77485231bde4a4c2
 work/ocean_wombatlite_airsea_flux.res.nc.0006:
-  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test5-38867fcd/restart009/ocean_wombatlite_airsea_flux.res.nc.0006
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/ocean_wombatlite_airsea_flux.res.nc.0006
   hashes:
-    binhash: 1f95d413dd942cca525178899a921803
-    md5: 3a0fdcb40f72db35ff1939284ff2d0e1
+    binhash: bb2d71d36291c6777a14fcd9766126ee
+    md5: c2b806cece9342f8dae5abd0141e59cc
 work/ocean_wombatlite_airsea_flux.res.nc.0007:
-  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test5-38867fcd/restart009/ocean_wombatlite_airsea_flux.res.nc.0007
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/ocean_wombatlite_airsea_flux.res.nc.0007
   hashes:
-    binhash: d26ae959cbc842912b1ad3069a5fdad0
-    md5: f734cdb1597b185585ee81008b9827e7
+    binhash: 7fcaaa3a47d6683d9c4998763226a26a
+    md5: 1c7de51b65e944d20eaa5495f97fb447
 work/ocean_wombatlite_airsea_flux.res.nc.0008:
-  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test5-38867fcd/restart009/ocean_wombatlite_airsea_flux.res.nc.0008
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/ocean_wombatlite_airsea_flux.res.nc.0008
   hashes:
-    binhash: 965bede9cf3d10637a38e3111c3c17de
-    md5: 52ba297d7c69d0c501fe70a445b238ca
+    binhash: 82ecd8e3d77fa9928bb993311739750b
+    md5: a91420b864c822e1e089eeeeedba72da
 work/ocean_wombatlite_airsea_flux.res.nc.0009:
-  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test5-38867fcd/restart009/ocean_wombatlite_airsea_flux.res.nc.0009
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/ocean_wombatlite_airsea_flux.res.nc.0009
   hashes:
-    binhash: 37daa76a4c51c6755bde362460ee7fb4
-    md5: aee01d931cfc60be97fe939d048f4ffa
+    binhash: d5672a25234220088401cfab39c997ca
+    md5: 9375e38b7f4945e29cd69e057c9540a9
 work/ocean_wombatlite_airsea_flux.res.nc.0010:
-  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test5-38867fcd/restart009/ocean_wombatlite_airsea_flux.res.nc.0010
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/ocean_wombatlite_airsea_flux.res.nc.0010
   hashes:
-    binhash: 72c956dfc8c846539c46cc99243beb23
-    md5: 5de8202aaa1773d0674453d6a1d32ada
+    binhash: 2004cb2705e0c8ef37b93bf283fd8f38
+    md5: ab417e15acb30b6532d42c1c5b501631
 work/ocean_wombatlite_airsea_flux.res.nc.0011:
-  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test5-38867fcd/restart009/ocean_wombatlite_airsea_flux.res.nc.0011
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/ocean_wombatlite_airsea_flux.res.nc.0011
   hashes:
-    binhash: 94a36731e9d61f9642548538ba128ed2
-    md5: a05001ce11d7088d7ef119b454f46257
+    binhash: 741787d356f9380d5d603e9879381dc2
+    md5: 3c0b1ea80c3d7e644035f8991ee25bf2
 work/ocean_wombatlite_airsea_flux.res.nc.0012:
-  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test5-38867fcd/restart009/ocean_wombatlite_airsea_flux.res.nc.0012
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/ocean_wombatlite_airsea_flux.res.nc.0012
   hashes:
-    binhash: 3bbf21a09439d86ff1034d640ce9a593
-    md5: 862573122a4267e37a4c04957404942f
+    binhash: f04c32861d15c35429f1668407e1a4c3
+    md5: e220ad4ce682c3120596977f08584322
 work/ocean_wombatlite_airsea_flux.res.nc.0013:
-  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test5-38867fcd/restart009/ocean_wombatlite_airsea_flux.res.nc.0013
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/ocean_wombatlite_airsea_flux.res.nc.0013
   hashes:
-    binhash: 141744a36ebec19faa74a6e9026fcebc
-    md5: deb6fcb796b8ba723203faf51e61e7a3
+    binhash: ea017e0607395fb1b42220f2154eab03
+    md5: a8bc980d417e4301d03bd2ad8f5b395f
 work/ocean_wombatlite_airsea_flux.res.nc.0014:
-  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test5-38867fcd/restart009/ocean_wombatlite_airsea_flux.res.nc.0014
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/ocean_wombatlite_airsea_flux.res.nc.0014
   hashes:
-    binhash: 51740cd53ce7a1148be141c7d9817a0b
-    md5: f6f6a693347a71d313bdd2eee62391cf
+    binhash: e95a0eead242b6a38b9c4160d2c0082e
+    md5: b7b74b7fc6b00ba05c70786d27b643ad
 work/ocean_wombatlite_airsea_flux.res.nc.0015:
-  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test5-38867fcd/restart009/ocean_wombatlite_airsea_flux.res.nc.0015
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/ocean_wombatlite_airsea_flux.res.nc.0015
   hashes:
-    binhash: a9d2433d3fce681d9c255aa72b6bebd3
-    md5: 0a68328456e4eb2fb74769f39e727f29
+    binhash: ba4ce4b8d9616a722d8741588fd597e0
+    md5: 2b3848d01f422ada29600595b05ac34d
 work/ocean_wombatlite_airsea_flux.res.nc.0016:
-  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test5-38867fcd/restart009/ocean_wombatlite_airsea_flux.res.nc.0016
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/ocean_wombatlite_airsea_flux.res.nc.0016
   hashes:
-    binhash: ace661a3bfc1fa557c60094d13ee4e29
-    md5: 0a20f60e18359dec916aeaf2cea2595e
+    binhash: 1b403345c617899fc9f0f6fe877de4b1
+    md5: 2ab859550a9856181ac16a0369bc9d12
 work/ocean_wombatlite_airsea_flux.res.nc.0017:
-  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test5-38867fcd/restart009/ocean_wombatlite_airsea_flux.res.nc.0017
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/ocean_wombatlite_airsea_flux.res.nc.0017
   hashes:
-    binhash: 5e09a4a2681a836dfb70b4b70f8470b2
-    md5: a9127cc4f7533b32fd41eab1b9b5ca89
+    binhash: b62e89783a56ee8f1a93b9c610a05e36
+    md5: 195577fdc4a629d45bc08b1d4be43e89
 work/ocean_wombatlite_airsea_flux.res.nc.0018:
-  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test5-38867fcd/restart009/ocean_wombatlite_airsea_flux.res.nc.0018
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/ocean_wombatlite_airsea_flux.res.nc.0018
   hashes:
-    binhash: 9cda6b6e9371e43c8ec1c7ca615138ab
-    md5: 2e6ca9bd594e72b43cddee246b0b6b06
+    binhash: 42c9842ec4804129839e70f9db9ad2d5
+    md5: 634ab25a35b904a76cc92e7c63374b1c
 work/ocean_wombatlite_airsea_flux.res.nc.0019:
-  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test5-38867fcd/restart009/ocean_wombatlite_airsea_flux.res.nc.0019
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/ocean_wombatlite_airsea_flux.res.nc.0019
   hashes:
-    binhash: 5cce41912a460a96e208c280f619527e
-    md5: a7a08a68a57437ba93699834d8a28738
+    binhash: 5f6892752200e4bde2b77348204c7f0d
+    md5: 791a7dc9c080f50c38f6370aa317ea7c
 work/ocean_wombatlite_airsea_flux.res.nc.0020:
-  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test5-38867fcd/restart009/ocean_wombatlite_airsea_flux.res.nc.0020
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/ocean_wombatlite_airsea_flux.res.nc.0020
   hashes:
-    binhash: 09b9f6e42049a6a0e9566e4993ff35da
-    md5: 461824bb044c25e96e7b493004ba59fe
+    binhash: 75769501333bf8d250505e77ac2233f6
+    md5: a0659ad947aaa3e38b54ef689d9befd0
 work/ocean_wombatlite_airsea_flux.res.nc.0021:
-  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test5-38867fcd/restart009/ocean_wombatlite_airsea_flux.res.nc.0021
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/ocean_wombatlite_airsea_flux.res.nc.0021
   hashes:
-    binhash: 5d98be49d8f7da22e4b001f5e5550991
-    md5: 49e10f046ea4e16f0cccbdc9976cc9e6
+    binhash: b6e09d00f098637a6daa00a01a273a3e
+    md5: a5ee5147356dc04212cddebe9e88520a
 work/ocean_wombatlite_airsea_flux.res.nc.0022:
-  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test5-38867fcd/restart009/ocean_wombatlite_airsea_flux.res.nc.0022
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/ocean_wombatlite_airsea_flux.res.nc.0022
   hashes:
-    binhash: 4682ae482998bec710af794ed1c16e91
-    md5: 1a8d0b6640cd5b4d25ce9d76d0d76ef9
+    binhash: ad26560dd8b52b9a5bf51dcb991f9ff7
+    md5: e0d0c1693de4c926e2cd2c228803b04b
 work/ocean_wombatlite_airsea_flux.res.nc.0023:
-  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test5-38867fcd/restart009/ocean_wombatlite_airsea_flux.res.nc.0023
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/ocean_wombatlite_airsea_flux.res.nc.0023
   hashes:
-    binhash: 8fe8981e35dabbdf8dbd7bd17d6b2e38
-    md5: fa865c6de5adba8a0ba6cba245062cb3
+    binhash: 77388a5c223bd9432de5d16ff1b7e5af
+    md5: 85be369da9923294e66e8e070ea8524f
 work/ocean_wombatlite_airsea_flux.res.nc.0024:
-  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test5-38867fcd/restart009/ocean_wombatlite_airsea_flux.res.nc.0024
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/ocean_wombatlite_airsea_flux.res.nc.0024
   hashes:
-    binhash: 5af10a70861f689a869cbe8229b8bbfa
-    md5: 2b0625779d80f6281a601532501c0502
+    binhash: 0f4b6031e350778d65104a29b50dc9a0
+    md5: b5c4b257a45ce4fece2c539e23c8d8c9
 work/ocean_wombatlite_airsea_flux.res.nc.0025:
-  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test5-38867fcd/restart009/ocean_wombatlite_airsea_flux.res.nc.0025
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/ocean_wombatlite_airsea_flux.res.nc.0025
   hashes:
-    binhash: 9129abda8307013df37f7e6f374fed47
-    md5: f1084f39203f4307cbd5621f930c4649
+    binhash: 7aaa0ec0f47c9f351e7229a7e4ea3689
+    md5: f9756a882ec1c877a60c4660bf17e832
 work/ocean_wombatlite_airsea_flux.res.nc.0026:
-  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test5-38867fcd/restart009/ocean_wombatlite_airsea_flux.res.nc.0026
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/ocean_wombatlite_airsea_flux.res.nc.0026
   hashes:
-    binhash: d235055b4b2675ea0b8bf7752a544b26
-    md5: 8d16395ee8b39f5e3348d6624265dbc0
+    binhash: aab0dd222d5c31fbfda5f9d568d977f6
+    md5: 32972149aa0443c9fd59266f8d835e4d
 work/ocean_wombatlite_airsea_flux.res.nc.0027:
-  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test5-38867fcd/restart009/ocean_wombatlite_airsea_flux.res.nc.0027
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/ocean_wombatlite_airsea_flux.res.nc.0027
   hashes:
-    binhash: 22c80a0a7a36695b6e669667f555b53a
-    md5: dbfd7240ce2c62d1f2bf11907b0f3a4c
+    binhash: f2fd98820da3af41106d2141bb037eb2
+    md5: 22d5a2252cad29de9cfa28260873491a
 work/ocean_wombatlite_airsea_flux.res.nc.0028:
-  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test5-38867fcd/restart009/ocean_wombatlite_airsea_flux.res.nc.0028
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/ocean_wombatlite_airsea_flux.res.nc.0028
   hashes:
-    binhash: 6f5919edb552e90742908cc8ab77b099
-    md5: 67d95a51b74b1cbf935b3f0ee39363d0
+    binhash: a51e5d1374f61b5185dbd22407012bfa
+    md5: 94468baa8fb87bad489e20cfff5121ed
 work/ocean_wombatlite_airsea_flux.res.nc.0029:
-  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test5-38867fcd/restart009/ocean_wombatlite_airsea_flux.res.nc.0029
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/ocean_wombatlite_airsea_flux.res.nc.0029
   hashes:
-    binhash: 65e39b026fcf9a74d5138c1af03fb401
-    md5: dea96e174782b31289180e3111a6c082
+    binhash: 07444a2434af34c803bc961e28e1e0a5
+    md5: a2f98474cf341a4af6d95657c6a4d99f
 work/ocean_wombatlite_airsea_flux.res.nc.0030:
-  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test5-38867fcd/restart009/ocean_wombatlite_airsea_flux.res.nc.0030
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/ocean_wombatlite_airsea_flux.res.nc.0030
   hashes:
-    binhash: 53ecd8016f3ac8abcfde14a404241ee6
-    md5: cc860c0a4edf39d2c40daf49596aec77
+    binhash: 2cab41500137bd6970c72f19f3e95784
+    md5: 8ba2fbd084231703d44db489f45c806d
 work/ocean_wombatlite_airsea_flux.res.nc.0031:
-  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test5-38867fcd/restart009/ocean_wombatlite_airsea_flux.res.nc.0031
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/ocean_wombatlite_airsea_flux.res.nc.0031
   hashes:
-    binhash: ba6a23a2c8be495ab965eb9b9dd56ffc
-    md5: a100e619363c6f0990601272c3f9c59e
+    binhash: 8c43d8cdb1aff1a1ac165e9869c8b3ac
+    md5: 6734ec16ae7cf6ec495e48a4b4fdec61
 work/ocean_wombatlite_airsea_flux.res.nc.0032:
-  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test5-38867fcd/restart009/ocean_wombatlite_airsea_flux.res.nc.0032
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/ocean_wombatlite_airsea_flux.res.nc.0032
   hashes:
-    binhash: 0a79219d9a4a0f55ada7c37e112c77be
-    md5: 237fd93835d9d699073facdcdc256e88
+    binhash: 6bad6544b5df563f8c6c9abfd5a1d96d
+    md5: 4eaf4ee82e2005a075c3e79033fc5840
 work/ocean_wombatlite_airsea_flux.res.nc.0033:
-  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test5-38867fcd/restart009/ocean_wombatlite_airsea_flux.res.nc.0033
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/ocean_wombatlite_airsea_flux.res.nc.0033
   hashes:
-    binhash: c5c2585854f1f5cfc64e2ca9e9b94495
-    md5: 095c8a090528b1257aa50f338817e54c
+    binhash: b73a110aa9eba1065b3aa227847b6801
+    md5: 816823baaa3b65daff362d42215361d8
 work/ocean_wombatlite_airsea_flux.res.nc.0034:
-  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test5-38867fcd/restart009/ocean_wombatlite_airsea_flux.res.nc.0034
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/ocean_wombatlite_airsea_flux.res.nc.0034
   hashes:
-    binhash: eaf11ca63308ea8e2107d75d8b6bc951
-    md5: c95391b2acdf1a26c59f4d9a780ee251
+    binhash: 504e5aac449884a4eeca6c1b2e35cad0
+    md5: bb2d6f00133328b8208b514b772aeab3
 work/ocean_wombatlite_airsea_flux.res.nc.0035:
-  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test5-38867fcd/restart009/ocean_wombatlite_airsea_flux.res.nc.0035
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/ocean_wombatlite_airsea_flux.res.nc.0035
   hashes:
-    binhash: 67488bba749e6f3098963434433dd6c3
-    md5: f571ae10a681510e09248d4f7dbaf970
+    binhash: 7ee7c6755b3415c8bed0307c1d89b4c6
+    md5: 1467ca19f008a19315b836bff9ad8e5c
 work/ocean_wombatlite_airsea_flux.res.nc.0037:
-  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test5-38867fcd/restart009/ocean_wombatlite_airsea_flux.res.nc.0037
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/ocean_wombatlite_airsea_flux.res.nc.0037
   hashes:
-    binhash: 874bd6fa6432da8b7534b9bd47c52f6c
-    md5: 66f44cc0f1919f8b5fbb38cab55bfe19
+    binhash: 6cea6bd5315d395ecc3b0c24e4a56dbd
+    md5: ecf8d171a846052496c1a0ea661aac41
 work/ocean_wombatlite_airsea_flux.res.nc.0038:
-  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test5-38867fcd/restart009/ocean_wombatlite_airsea_flux.res.nc.0038
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/ocean_wombatlite_airsea_flux.res.nc.0038
   hashes:
-    binhash: 47d30ffa54bea3ecbe1775f1255c318b
-    md5: 86ac716048fed102e49902f0d56595a3
+    binhash: f91239bdc3242a1392c7a0887770c770
+    md5: 43071d7f7dca4f4e51f0b54353babb55
 work/ocean_wombatlite_airsea_flux.res.nc.0039:
-  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test5-38867fcd/restart009/ocean_wombatlite_airsea_flux.res.nc.0039
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/ocean_wombatlite_airsea_flux.res.nc.0039
   hashes:
-    binhash: e13592d0901e8a9aa5d145c63cb078d4
-    md5: 396bddc15b4fb5b8ad7c9cc4c0c2db18
+    binhash: e4cfb208063dafff22424ef8e9be9024
+    md5: 4b64ae4b1301e612596c9fe1339cacca
 work/ocean_wombatlite_airsea_flux.res.nc.0040:
-  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test5-38867fcd/restart009/ocean_wombatlite_airsea_flux.res.nc.0040
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/ocean_wombatlite_airsea_flux.res.nc.0040
   hashes:
-    binhash: 80b55a7ccf6cf2a82fb6f85c4bd4157c
-    md5: 2744dbd6509e0dd0234327a3449f5d37
+    binhash: 76848c398d1a89e2698d2772d99c1244
+    md5: 1458c74f1242ae3843c8968dc8982f13
 work/ocean_wombatlite_airsea_flux.res.nc.0041:
-  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test5-38867fcd/restart009/ocean_wombatlite_airsea_flux.res.nc.0041
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/ocean_wombatlite_airsea_flux.res.nc.0041
   hashes:
-    binhash: 57a29a91fee75cac069740305bedeb64
-    md5: b372e40fbb9bce70c204370540a81e9c
+    binhash: c99736184382a534fffdff99d65eddd5
+    md5: 337a31e83afb5fc44d4f889e68d14b6d
 work/ocean_wombatlite_airsea_flux.res.nc.0042:
-  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test5-38867fcd/restart009/ocean_wombatlite_airsea_flux.res.nc.0042
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/ocean_wombatlite_airsea_flux.res.nc.0042
   hashes:
-    binhash: 5a8ee859f6e526d149b4ccd43db54d07
-    md5: ba7eccc3fb16ea37c21a29775cd6956e
+    binhash: 49cfec055d8b1dfb677ba72ddd737d94
+    md5: 9a8691a5c8ef52dbc56a26299bf13f93
 work/ocean_wombatlite_airsea_flux.res.nc.0043:
-  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test5-38867fcd/restart009/ocean_wombatlite_airsea_flux.res.nc.0043
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/ocean_wombatlite_airsea_flux.res.nc.0043
   hashes:
-    binhash: 5e021d62febd2185abba9095c5af201f
-    md5: 93d13261398b5a6e4952ca13667ad16a
+    binhash: 96a8b902c735a1217a4c1bbaa0d594c0
+    md5: 0bfd70e2606703529479fed7aa40b2e5
 work/ocean_wombatlite_airsea_flux.res.nc.0044:
-  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test5-38867fcd/restart009/ocean_wombatlite_airsea_flux.res.nc.0044
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/ocean_wombatlite_airsea_flux.res.nc.0044
   hashes:
-    binhash: 7e27b956a13d9cc6634f8a83972c5282
-    md5: 92dec38bf1aa6218bc034cac23eded8f
+    binhash: 197b106c5d1bd33bb87e8f89747374a6
+    md5: 3e6c5c5620e5068acd4f71e5a6e6e568
 work/ocean_wombatlite_airsea_flux.res.nc.0045:
-  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test5-38867fcd/restart009/ocean_wombatlite_airsea_flux.res.nc.0045
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/ocean_wombatlite_airsea_flux.res.nc.0045
   hashes:
-    binhash: ce86249303948cba414c18fe42980528
-    md5: f24173eca3d7e72ebca6d1dc43da957b
+    binhash: 502069d58fdeb826eddd3b469a350ee3
+    md5: bf3833784cb60ee9c95fd48e973cc9ce
 work/ocean_wombatlite_airsea_flux.res.nc.0046:
-  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test5-38867fcd/restart009/ocean_wombatlite_airsea_flux.res.nc.0046
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/ocean_wombatlite_airsea_flux.res.nc.0046
   hashes:
-    binhash: eb774409d89cffa83051d36af9c4860e
-    md5: 2c6d3d8972f19b40a8d6cb0fe7151216
+    binhash: 14e40c23be7e0dfcf9a43dfcc514d3bc
+    md5: 2d45442abcfa24023350416057e25a26
 work/ocean_wombatlite_airsea_flux.res.nc.0047:
-  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test5-38867fcd/restart009/ocean_wombatlite_airsea_flux.res.nc.0047
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/ocean_wombatlite_airsea_flux.res.nc.0047
   hashes:
-    binhash: e342bb5d6dca11b7a8212ce55dde0534
-    md5: 5c9918630dd89771882e122014e40d6e
+    binhash: 2f4babff1c9b11978ba17bf4f1252a54
+    md5: 81a11452d429e7a5388bc302b47f008e
 work/ocean_wombatlite_airsea_flux.res.nc.0048:
-  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test5-38867fcd/restart009/ocean_wombatlite_airsea_flux.res.nc.0048
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/ocean_wombatlite_airsea_flux.res.nc.0048
   hashes:
-    binhash: 72e0a91e760397339e6dd2c60d76e05f
-    md5: b6af6d130a3869013291797677ebe8e6
+    binhash: 9cae61645acb69d1ee3b1bddb0dc3475
+    md5: 6f91ef8fa50bd21cfe68023bc762a5c1
 work/ocean_wombatlite_airsea_flux.res.nc.0050:
-  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test5-38867fcd/restart009/ocean_wombatlite_airsea_flux.res.nc.0050
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/ocean_wombatlite_airsea_flux.res.nc.0050
   hashes:
-    binhash: 1bb044d98e10e4031af71bfa0876396c
-    md5: 6632df362b321995388a68aa2a675566
+    binhash: 6ab457865a708f8e857ed5cfcc40bac6
+    md5: 4ad9581be408277a75cdc1635899ce79
 work/ocean_wombatlite_airsea_flux.res.nc.0051:
-  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test5-38867fcd/restart009/ocean_wombatlite_airsea_flux.res.nc.0051
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/ocean_wombatlite_airsea_flux.res.nc.0051
   hashes:
-    binhash: 79437da254c4eb45e5d2e3ad1adae78b
-    md5: bc27697ea1dc2cc47a9bde7b830b932f
+    binhash: cdc631f61327fe235ee4a154c10f03da
+    md5: ae870eb6ddc73a5fa391046a61f4b78a
 work/ocean_wombatlite_airsea_flux.res.nc.0052:
-  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test5-38867fcd/restart009/ocean_wombatlite_airsea_flux.res.nc.0052
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/ocean_wombatlite_airsea_flux.res.nc.0052
   hashes:
-    binhash: 19e1e2d378faea0700b859674453daac
-    md5: 003c7fe7f9509562a3ea73989b7af2f3
+    binhash: bee72288f7c49d0a3d3a4dc9aef2f152
+    md5: ad9a39ebcf1b4431d4036044c55aa2ab
 work/ocean_wombatlite_airsea_flux.res.nc.0053:
-  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test5-38867fcd/restart009/ocean_wombatlite_airsea_flux.res.nc.0053
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/ocean_wombatlite_airsea_flux.res.nc.0053
   hashes:
-    binhash: 3d2c099ec1e53cc21102a174cb32c570
-    md5: 04bbfecf274bf7454b4cbcf928dce87e
+    binhash: 88632cb11d7d100546704ecd038ec7ff
+    md5: a718b939cd97bd191f45a7592d670d76
 work/restart_metadata.yaml:
-  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test5-38867fcd/restart009/restart_metadata.yaml
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/restart_metadata.yaml
   hashes:
-    binhash: c1ecdcf42d7a2f28ab7f0ff13efc2e8a
-    md5: 58c8d8db03e4db11595337897b96199e
+    binhash: 40cd5411e115a746c00a2a48c0e5d41f
+    md5: c3953301586e4acc7d7e4071cce58f9f
 work/rpointer.atm:
-  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test5-38867fcd/restart009/rpointer.atm
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/rpointer.atm
   hashes:
-    binhash: c162f4441bddd5e21528fc5fd849c528
-    md5: f92c307fc057ceda2df7b21420577b71
+    binhash: 287c08332ecac63abda1f16fc111ce8d
+    md5: c490b894a000fe86d7a31fd01803e0d9
 work/rpointer.cpl:
-  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test5-38867fcd/restart009/rpointer.cpl
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/rpointer.cpl
   hashes:
-    binhash: b7cb783189de6be191863383d3853a6a
-    md5: 853627149d6210b897696dc25a67e372
+    binhash: a83e90132735ee3404c080b6312c986c
+    md5: 639059918393df29121e9a2ad0bdf08a
 work/rpointer.ice:
-  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test5-38867fcd/restart009/rpointer.ice
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/rpointer.ice
   hashes:
-    binhash: 8e18475246f94b071dbb349a018eede0
-    md5: ae645823de429d14de4cbed965057b77
+    binhash: cf707d238bdd1448fac7e348072f7e0d
+    md5: a6119b4dc4b3d676a26a229662139272
 work/rpointer.ocn:
-  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test5-38867fcd/restart009/rpointer.ocn
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/rpointer.ocn
   hashes:
-    binhash: 4127cf253a78cbadc110e808330bfa85
-    md5: d21cc75b2844b2cbfbd46449e4507f9e
+    binhash: c55bff5c773ed3a6db8c3ff7e024f4f5
+    md5: 7dfaab3532c719f28c4166f31183537c
 work/rpointer.rof:
-  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test5-38867fcd/restart009/rpointer.rof
+  fullpath: /scratch/x77/aek156/access-om3/archive/MC_25km_jra_iaf+wombatlite-test-test5-tweaks-dd8d35ed/restart010/rpointer.rof
   hashes:
-    binhash: 5e644cf92d84753a315b636f7225b258
-    md5: db89c180c10b193e9b95d7dbe9bb9716
+    binhash: aa04b06c87e78bc3d09edf40c7580477
+    md5: b1c8ebecc04cb519a9a7d83cdcfe3936
