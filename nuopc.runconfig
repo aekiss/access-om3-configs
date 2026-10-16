@@ -311,12 +311,12 @@ MED_modelio::
      diro = ./log
      logfile = med.log
      pio_async_interface = .false.
-     pio_netcdf_format = nothing
-     pio_numiotasks = 4
+     pio_netcdf_format = 64bit_data
+     pio_numiotasks = 14
      pio_rearranger = 2
      pio_root = 1
-     pio_stride = 1
-     pio_typename = netcdf4p
+     pio_stride = 104
+     pio_typename = pnetcdf
 ::
 
 ATM_modelio::
@@ -324,10 +324,10 @@ ATM_modelio::
      logfile = atm.log
      pio_async_interface = .false.
      pio_netcdf_format = nothing
-     pio_numiotasks = 1
+     pio_numiotasks = 28
      pio_rearranger = 1
-     pio_root = 1
-     pio_stride = 1
+     pio_root = 2
+     pio_stride = 52
      pio_typename = netcdf4p
 ::
 
